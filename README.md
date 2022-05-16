@@ -8,9 +8,9 @@
 
 [SEMESTRE-04-2021.1 - *Java-Oracle API - Recrutamento por Geolocalização et al.*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
 
-##[SEMESTRE-05-2021.2 - *Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil*](https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS)
+## [SEMESTRE-05-2021.2 - *Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil*](https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS)
 
-##[FRONTEND of *Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil*](https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS_FE)	
+## [FRONTEND of *Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil*](https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS_FE)	
 
 [SEMESTRE-06-2022.1 - *Python-MongoDB-LGPD opt-in opt-out ou Análise de Dados Eleitorais*]()
 
@@ -40,45 +40,42 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 
 <h3 align="center">Arquitetura da Aplicação</h3>
 
-## Features
-
 - [x] 1) THE ARCHITECTURE OF EDUCALYTICS
 
-![image](/uploads/e0032883a1c423499c2894d11e8499e6/image.png)
+![Screenshot from 2022-05-15 21-59-03](https://user-images.githubusercontent.com/54047352/168504029-d49d6599-06c0-4d7a-85d3-4c29d906922e.png)
 
 - [x]  2) FRONTEND;
 - [x]  2.1) DASHBOARD (MVP);
-![image](/uploads/517981e60e68b28b7e72d3d10446fa4a/image.png)
+
+![Screenshot from 2022-05-15 22-03-00](https://user-images.githubusercontent.com/54047352/168504109-64045972-2b34-4a19-8098-23b1017fd5d2.png)
 
 - [x]  2.2) LOGIN SCREEN (WITH CRIPTOGRAPHY "bcript");
 
-<h1 align="center">
-![image](/uploads/e0773cc284d37700a7e26a4b038c7b3d/image.png)
-![image](/uploads/c1e112235e341cea25edc979989e9359/image.png)
-</h1>
+![Screenshot from 2022-05-15 22-06-35](https://user-images.githubusercontent.com/54047352/168504140-08aff39b-4f2d-49c0-a49d-1c454a37ee0c.png)
 
 - [x]  2.3) REQUEST USING UNIQUE TOKEN;
 
-![LOGIN-TOKEN-BCRIPT](/uploads/646571c981a760861dbb4c37d5311cf0/LOGIN-TOKEN-BCRIPT.gif)
+![LOGIN-TOKEN-BCRIPT](https://user-images.githubusercontent.com/54047352/168504168-bd12e7fb-992f-4036-8e62-f7797a2a6cff.gif)
 
 - [x]  2.4) CONTINUOUS INTEGRATION;
 
-![image](/uploads/34378882d78dcdd3253a0ef56a1f0b66/image.png)
-![image](/uploads/94543a4b277168a2f502b2037cea70bb/image.png)
-![image](/uploads/237fff34df8d7d61529b82d9b16b8eff/image.png)
-![image](/uploads/1785d6f52205b99e41f9d10155a1b9f9/image.png)
-![image](/uploads/e1b19eac58d659982df144302c1b99a2/image.png)
-![image](/uploads/cb87d885f33c4105bf465036cc1de6ef/image.png)
-![image](/uploads/b1cbf24ed91eecfc1fad66dd619c867e/image.png)
+![image](https://user-images.githubusercontent.com/54047352/168504269-088503b3-c056-46c7-9210-a8fe22022a3e.png)
+![image2](https://user-images.githubusercontent.com/54047352/168504270-cd16dc20-67ce-4372-a1b2-edd8d15c74ba.png)
+![image3](https://user-images.githubusercontent.com/54047352/168504272-14f01caf-6960-4705-a29a-daad2befa23c.png)
+![image4](https://user-images.githubusercontent.com/54047352/168504274-5d31bb4d-7ef9-4238-9155-1a54b39e6165.png)
+![image5](https://user-images.githubusercontent.com/54047352/168504276-f55f9000-10ee-4064-a13e-f51375cc618f.png)
+![image6](https://user-images.githubusercontent.com/54047352/168504291-48b713ab-52a8-4a10-bacb-acd19b7a8400.png)
+![image7](https://user-images.githubusercontent.com/54047352/168504292-d70c2f47-5312-4d7c-8303-3391df2cf738.png)
 
 - [x]  2.5) STUDENT PARTICIPATION RESULTS BEING SHOWED VIA GRAPHICS ON DASHBOARD;
-![image](https://i.ibb.co/7Vz4D3W/GRAFICO-DE-ENGAJAMENTO-1.png)
-![image](https://i.ibb.co/925kHQh/GRAFICO-DE-ENGAJAMENTO-2.png)
-![image](https://i.ibb.co/Br2WZqJ/GRAFICO-DE-ENGAJAMENTO-3.png)
+![68747470733a2f2f692e6962622e636f2f37567a344433572f4752414649434f2d44452d454e47414a414d454e544f2d312e706e67](https://user-images.githubusercontent.com/54047352/168504337-9977c291-ba71-43ae-acfe-7be1f69f815d.png)
+![68747470733a2f2f692e6962622e636f2f3932356b4851682f4752414649434f2d44452d454e47414a414d454e544f2d322e706e67](https://user-images.githubusercontent.com/54047352/168504342-edd33729-b1dc-43b6-b194-3bd6c75c35be.png)
+![68747470733a2f2f692e6962622e636f2f427232575a714a2f4752414649434f2d44452d454e47414a414d454e544f2d332e706e67](https://user-images.githubusercontent.com/54047352/168504344-a157ed44-30b6-4775-9677-f645f4f2b04e.png)
+
 
 - [x]  2.6) RESULTS ON EACH CLASS;
 
-![image](https://i.ibb.co/D1HJPdb/PERFORMANCE-POR-DISCIPLINA.png)
+![68747470733a2f2f692e6962622e636f2f4431484a5064622f504552464f524d414e43452d504f522d4449534349504c494e412e706e67](https://user-images.githubusercontent.com/54047352/168504345-cb3a578b-208b-487b-80ca-7769bdc276da.png)
 
 - [x] 3) BACKEND - THE 8 LAYERS (MPConConRVSC).
 
@@ -91,80 +88,76 @@ Validator,
 Services, 
 Controller.
 
-![image](/uploads/0e674ebc3fe4fc49a8d5541a08872ad6/image.png)
 
-![image](/uploads/c253e6519ed9b3e19c02988ad3fda2d9/image.png)
+![image8](https://user-images.githubusercontent.com/54047352/168504378-89855926-2958-452a-9e9d-e07bb78eef77.png)
+![image9](https://user-images.githubusercontent.com/54047352/168504379-0c5e1a0b-0404-4217-b9c8-76860088de30.png)
 
 - [x] 3.1) BACKEND - VALIDATION (user and password).
 
-![data security 01](/uploads/796c5457702781810a21ec2c57659593/WhatsApp-Video-2021-09-19-at-18.53.24.gif)
+![WhatsApp-Video-2021-09-19-at-18 53 24](https://user-images.githubusercontent.com/54047352/168504410-032731d7-b71d-4d74-be41-de70e200f4b2.gif)
 
 - [x] 3.2) BACKEND - DATABASE ACCESS (MVP for Sprint 01 = concluded).
 
-![database access](/uploads/feb2ee0b86116211945623eaaaa58790/WhatsApp-Video-2021-09-19-at-18.53.36.gif)
+![WhatsApp-Video-2021-09-19-at-18 53 36](https://user-images.githubusercontent.com/54047352/168504448-0fefada2-66d8-49b0-8266-72aa7c3f3f32.gif)
+
 
 - [x] 3.3) BACKEND - ETL.
 
-![1](/uploads/21e823772a4943661033dcd66fb0d089/1.gif)
-![2](/uploads/503a5796964bfe840c5c6a32118100e0/2.gif)
-![3](/uploads/5a1b8a4ba4874ea3c8b52f8e854f3b07/3.gif)
-![5](/uploads/e891dc30db9253bb2a73cd7980675054/5.gif)
+![1](https://user-images.githubusercontent.com/54047352/168504748-ecc214a6-0acc-4520-96a6-fa220f601d74.gif)
+![2](https://user-images.githubusercontent.com/54047352/168504752-be99f11e-4a7b-4ba3-a684-7291c38fc165.gif)
+![3](https://user-images.githubusercontent.com/54047352/168504755-9fc67cf3-4cda-4359-a61e-c3cffb08a72f.gif)
+![5](https://user-images.githubusercontent.com/54047352/168504764-5af45d97-ee54-4545-87da-5442af80e93c.gif)
 
 - [x] 3.3.1) BACKEND - ETL TIME DIMENSION.
 
-![image](/uploads/505e55286db7a593eb523cc84e898c2b/image.png)
-![image](/uploads/f298a401ce83f50030e35abd0c758baa/image.png)
+![image10](https://user-images.githubusercontent.com/54047352/168504855-8765cf2a-f846-469c-addc-ffcd8f4f3c46.png)
+![image11](https://user-images.githubusercontent.com/54047352/168504857-1fd56213-e9da-4976-bf31-410c9eaafd70.png)
 
 - [x] 3.3.2) BACKEND - ETL COURSE DIMENSION ON THE LEGACY APPLICATION.
 
-![image](/uploads/f1b312c4656e2dc08aa6de984c31bc5a/image.png)
-![image](/uploads/06662513e559dbc99ca404eaba33ce69/image.png)
-![image](/uploads/3ebab2b710d5eeb5a0f065a6a5a88d9d/image.png)
-![image](/uploads/a904e258f58fb0c7e434972f2e2c23f8/image.png)
+![image12](https://user-images.githubusercontent.com/54047352/168505076-e4ffb3b1-4ffb-49b6-a1a0-f7bd87fe37c1.png)
+![image13](https://user-images.githubusercontent.com/54047352/168505078-6ab613d8-0f63-4ba3-b72d-70405387e7d2.png)
+![image----lacuna](https://user-images.githubusercontent.com/54047352/168505083-8f647cd3-de1e-4d3b-96e1-e072d42a33c9.png)
+![image15](https://user-images.githubusercontent.com/54047352/168505120-bd3daed2-a668-4884-a103-a59f7f63066f.png)
+![image16](https://user-images.githubusercontent.com/54047352/168505129-bffd498c-fa94-447b-8ddb-9a2660b9b014.png)
 
 - [x] 3.3.3) BACKEND - ETL COURSE TO DATAMART ON THE PROGRAMME DIMENSION OF THE LEGACY APPLICATION.
 
-![image](/uploads/74509b0f9f1993f3fe64642bb2245bb8/image.png)
-![image](/uploads/ffcc3ede8013d7d43c3a9031d20f2d8f/image.png)
-![image](/uploads/fa0bc7f462673c0660de478abc6165f2/image.png)
-![image](/uploads/b4a6f7dbe97abbbce304512ac8174021/image.png)
-![image](/uploads/618157edc00a59dc9d342c3cf891a983/image.png)
-![image](/uploads/c1194bc804482486775cb668dc582bad/image.png)
+![image17](https://user-images.githubusercontent.com/54047352/168505213-bcd2dc2f-23f3-4993-9573-3db337397f4a.png)
+![image18](https://user-images.githubusercontent.com/54047352/168505216-e3219e54-d9a3-4b18-9ae1-ee9fe7788390.png)
+![image19](https://user-images.githubusercontent.com/54047352/168505217-99eb2d1e-2e8a-42fb-8c67-f1cb8cc38702.png)
+![image20](https://user-images.githubusercontent.com/54047352/168505220-9fdce18d-368a-4cca-86f8-97acacabccfe.png)
+![image21](https://user-images.githubusercontent.com/54047352/168505221-8a8881e0-f2f2-43df-8068-76a8ee0b5387.png)
+![image22](https://user-images.githubusercontent.com/54047352/168505222-6080ccf5-9882-4c55-b3b7-18b9337c838e.png)
 
 - [x] 4) EDUCALYTICS's DATABASE (RELATIONAL)
 
 - [x] 4.1) LOGICAL MODEL
 
-![image](/uploads/17d3c36f5538956ce7511dca92493aa3/image.png)
+![image23](https://user-images.githubusercontent.com/54047352/168505254-7cd2f65c-09a6-4670-bde2-c8db5038dc7b.png)
 
 - [x] 4.2) ENTITY-RELATIONSHIP MODEL
 
-![image](/uploads/503da79cc91e5b0b9c23ce3f66f0eaaa/image.png)
+![image24](https://user-images.githubusercontent.com/54047352/168505257-9a438ab4-b4b1-40ca-aa47-8b4e1be06b2e.png)
 
-- [x] 4.3) EDUCALYTICS's DATABASE (RELATIONAL - MVP SPRINT 01)
-
-![image](/uploads/13d93f79569bc96e400feae3baa779ec/image.png)
-
-- [x] 4.4) EDUCALYTICS's DATABASE (RELATIONAL - MVP SPRINT 01)
-
-![image](/uploads/1c0bc6a6ecc72ab2dbfef7997706bc14/image.png)
 
 - [x] 4.5) SKILLSHARE DATABASE MODEL
 
-![image](/uploads/d91d13b815360da6147c7a0d410849a4/image.png)
+![image25](https://user-images.githubusercontent.com/54047352/168505323-c5dfcd4c-419a-45ec-b42d-c7669732155f.png)
 
 - [x] 4.6) DATAMART PERFORMANCE DATABASE MODEL
 
-![image](/uploads/b0d01ac27de674663cb2c9eb39338b01/image.png)
-![image](/uploads/5873d267c59f8cb8a58a11f81419e2f5/image.png)
+![image26](https://user-images.githubusercontent.com/54047352/168505344-f64615c7-635d-4c7a-9af7-a3275cd22862.png)
+![image27](https://user-images.githubusercontent.com/54047352/168505347-43a5d48f-388c-402a-8e94-db69049898e7.png)
 
 - [x] 4.7) DATAMART PARTICIPATION ETL INTEGRATION
 
-![image](https://i.ibb.co/3m6V6n6/DATAMART-ENGAJAMENTO.png)
+![68747470733a2f2f692e6962622e636f2f336d3656366e362f444154414d4152542d454e47414a414d454e544f2e706e67](https://user-images.githubusercontent.com/54047352/168505504-0083765d-d887-4f07-93af-9b98b7eb5ee1.png)
 
 - [x] 4.8) DATAMART PARTICIPATION - EXTRACTING DATA FROM MONGO DB
 
-![image](https://i.ibb.co/ssS7yBm/EXTRACAO-MONGO-DB.png)
+![68747470733a2f2f692e6962622e636f2f7373533779426d2f455854524143414f2d4d4f4e474f2d44422e706e67](https://user-images.githubusercontent.com/54047352/168505550-e34af782-ff17-46d3-9949-fedb848d45ec.png)
+
 
 - [x] 4.9) DATAMART PARTICIPATION - EXTRACTING FROM DIMENSION TO FACT
 
