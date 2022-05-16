@@ -156,59 +156,79 @@ Controller.
 
 - [x] 4.8) DATAMART PARTICIPATION - EXTRACTING DATA FROM MONGO DB
 
-![68747470733a2f2f692e6962622e636f2f7373533779426d2f455854524143414f2d4d4f4e474f2d44422e706e67](https://user-images.githubusercontent.com/54047352/168505550-e34af782-ff17-46d3-9949-fedb848d45ec.png)
+
+![Screenshot from 2022-05-15 22-44-23](https://user-images.githubusercontent.com/54047352/168506159-7f8f8acc-5e9c-42a4-8da3-775602a89743.png)
 
 
 - [x] 4.9) DATAMART PARTICIPATION - EXTRACTING FROM DIMENSION TO FACT
 
-![image](https://i.ibb.co/W27gGDW/EXTRACAO-DIMENSOES-FATO.png)
+![Screenshot from 2022-05-15 22-47-31](https://user-images.githubusercontent.com/54047352/168506384-65dc2173-3af2-41a7-83da-e21f1d6d534b.png)
 
-- [x] 5) EDUCALYTICS's DATABASE (NON-RELATIONAL)
+- [x] 5) DUPLO ETL (MONGODB + APPLICAÇÃO LEGADO)
 
-![image](https://i.ibb.co/pXyJ1qQ/DATAMART-02-ENGAJAMENTO.png)
+![Screenshot from 2022-05-15 22-49-49](https://user-images.githubusercontent.com/54047352/168506605-078d9b67-53fd-4e17-974f-bcd6d99c9148.png)
 
-- [x] 5.1) DATAMART PARTICIPATION STRUCTURE
+- [x] 5.1) ESTRUTURA DA APLICAÇÃO LEGADO
 
-![image](https://i.ibb.co/b63mVjP/MODELAGEM-ATUALIZADA.png)
+![Screenshot from 2022-05-15 22-51-32](https://user-images.githubusercontent.com/54047352/168506764-7bcd1279-68ca-48af-bae7-7e007e9ab655.png)
 
-- [x] 5.1.1) DATAMART PARTICIPATION - CONNECTION COLLECTION
 
-![image](https://i.ibb.co/kMLBtPv/COLLECTION-CONNECTIONS.png)
+- [x] 5.x) DATAMART "ENGAJAMENTO" - ETL DE BD NÃO-RELACIONAL
 
-- [x] 5.1.2) DATAMART PARTICIPATION - MESSAGES COLLECTION
+![68747470733a2f2f692e6962622e636f2f774d724c7042422f45544c2d42444e522e706e67](https://user-images.githubusercontent.com/54047352/168506962-ed873842-0ac2-4f14-8d8f-0c6419741a2a.png)
 
-![image](https://i.ibb.co/NNj5jnf/COLLECTION-MESSAGES.png)
+- [x] 5.Y)  ESTRUTURA DO MONGODB CLOUD (COLLECTIONS) - CHAT+LOGS DOS ALUNOS.
+
+![Screenshot from 2022-05-15 22-55-38](https://user-images.githubusercontent.com/54047352/168507538-d7f3ba49-b2a4-4093-a94b-8c23e24154ce.png)
+
+
+- [x] 5.1.1)  MONGODB "CONNECTIONS" COLLECTION PARA DATAMART "ENGAJAMENTO"
+
+![Screenshot from 2022-05-15 22-56-30](https://user-images.githubusercontent.com/54047352/168507269-5f95f35a-220f-48ea-81c9-1e5d892b885e.png)
+
+- [x] 5.1.2) MONGODB "MESSAGES" COLLECTION PARA DATAMART "ENGAJAMENTO"
+
+![Screenshot from 2022-05-15 22-57-04](https://user-images.githubusercontent.com/54047352/168507273-69592d50-dd7c-4c1b-9665-0c21f1429383.png)
 
 - [x] 5.2) NON-RELATIONAL DATABASE ETL
 
 ![image](https://i.ibb.co/wMrLpBB/ETL-BDNR.png)
 
-- [x] 5.3) CHAT+LOGS REGISTERS INSERTED ON MONGO DB CLOUD
-![image](https://i.ibb.co/WxhRFtm/DADOS-DO-CHAT-E-DOS-LOGS.png)
-
-## Milestones
-
-| Sprint | Data  | Video                                       |
-|--------|-------|---------------------------------------------|
-| 1      | September 19th, 2021 |---------------------------------------------|
-| 2      | October 10th, 2021 |---------------------------------------------|
-| 3      | November 7th, 2021 |---------------------------------------------|
-| 4      | November 28th, 2021 |---------------------------------------------|
+- [x] 5.3) CASOS DE USO
+![image28](https://user-images.githubusercontent.com/54047352/168507568-1a68ff7b-7d01-4a11-abc7-9235c7c826e5.png)
 
 
+# II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO 
 
+:wrench: **Banco de Dados 01** 
 
-## Elicitation, Story Cards an Requirements
-### The Problem we aim to solve
+:wrench: **Banco de Dados 02**
 
-(translated to Portuguese).
+:wrench: **Banco de Dados 03**
 
-O cliente busca obter indicadores e avaliar o uso e gerenciamento de sua plataforma de cursos, buscando os alunos que estão com boa frequência nas aulas, que entra em contato por chat para sanar dúvidas e avaliação das aulas dadas.
+:wrench:  linguagem: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-Com base nesse briefing, solicita uma plataforma funcional com capacidade analítica, com dashboards, histórico de chat e armazenamento desses dados. Para a realização da análise deverá ter especialmente:
+:wrench:  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
+:wrench: SQL DEVELOPER.
 
-* Ativação: Quantos usuários ativos (aluno/colaboradores) na plataforma legado;
+:wrench:  IDE: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white).
+
+:wrench:  Metodologia *Scrum* e Ágil;
+
+:wrench: OBS Studio / Kdenlive
+
+# III - CONTRIBUIÇÕES INDIVIDUAS/PESSOAIS
+
+:axe: Atuei como *Product Owner* e *Scrum Master*
+
+:axe: Como P.O., compreendi imediatamente a necessidade e ralizei comunicação veloz com a equipe para criar uma  plataforma de visão gerencial, provendo inteligência do negócio e habilitado o pesamento analítico, com dashboards, histórico de chat e armazenamento desses dados históricos e escalabilidade.
+
+:axe:Através da plataforma, deve ser possível encontrar os alunos com melhores e piores:
+   i. frequência nas aulas;
+   ii. interação (chat, para sanar dúvidas e avaliação das aulas dadas).
+   iii. plataforma funcional com capacidade analítica
+   * Ativação: Quantos usuários ativos (aluno/colaboradores) na plataforma legado;
 * Engajamento: Conhecer o número de usuários, tipos, seu comportamento (matrícula, curso, disciplina, participação);
 * Desempenho: qual o aproveitamento do aluno(nota atingida) e do professor (andamento da turma);
 * Participação x taxas de conclusão x desempenho dos alunos/colaboradores;
@@ -217,74 +237,9 @@ Com base nesse briefing, solicita uma plataforma funcional com capacidade analí
 * Guardar logs e histórico das conversas do chat;
 
 
-## Requirements
+# IV - APRENDIZADOS EFETIVOS
 
-#### Functional
-
-(translated to Portuguese).
-
-| Functional Requirements                                                 | Reference | Priority | Sprint |
-|------------------------------------------------------------------------|--------|------------|--------|
-| Dashboard: apresentar dados ao cliente (via backend e banco de dados 01 relacional)        | RF01   | 1          | 1      |
-| Continuous Integration | RF02   | 1          | 4      |
-| Tratar Logs| RF03   | 1          | 2      |
-| Tratar Chats T   | RF04  | 1          | 3     |
-| Acumular dados históricos tratados e gerar inteligência para o client, via DASHBOARD |RF05	| 1	| 4
-
-
-
-
-#### Non-functional
-
-(translated to Portuguese).
-
-| Non-functional Requirements                            | Reference | 
-|------------------------------------------------------|--------|
-| Regras de segurança da informação         | RNF01  |
-| Regras de privacidade              | RNF02  |
-| Documentação | RNF03  |
-| Escalabilidade  | RNF04  |
-| Facilidade de Uso | RNF05 |
-
-
-
-## User Stories
-(translated to Portuguese).
-
-| Quem? | O que? | Por quê? |
-|-------|--------|----------|
-| Aplicação Legado | Fornece plataforma de educação e gera dados históricos | Dados que serão tratados e analisados
-| IONIC Health | Quer analisar dados históricos para a tomada de decisão | Para mapeamento de aproveitamento etc. dos cursos EAD |
-| Tecnocode | Desenvolve a EDUCALYTICS | Para aplicar na prática os conhecimentos de programação, banco de dados (não)relacional, data warehouse, continuous inntegration,  além de adquirir experiência profissional em desenvolvimento de projetos |
-
-
-
-## Usability:
-(translated to Portuguese).
-
-**HEURISTIC EVALUATION**
-
-* Correspondência entre o sistema e o mundo real
-
-O sistema possuirá uma interface intuitiva com menus e botões de ações de fácil entendimento, utilizando nomenclatura familiar aos seus usuários. As ações tais como acompanhamento dos indicadores por meio de Dashboard, chat por colaborador, avaliação por aula, induzindo os caminhos para que a utilização seja fluída.
-
-* Controle do usuário e liberdade
-
-Com o sistema intuitivo, o usuário de nível de gerenciamento possuirá uma certa liberdade no sistema, minimizando o número de cliques e de erros, pois conseguirá identificar claramente as funcionalidades e comandos disponíveis, sem precisar decorar procedimento algum. Sendo a facilidade em identificar cada gráfico proposto no dashboard, para fim de avaliar melhorias entre os alunos e colaboradores que realizam algum curso na plataforma.
-
-* Design estético e minimalista
-
-Com design intuitivo o sistema exibirá informações precisas e de fácil interpretação, com gráficos de cards, donuts e ícones familiares. 
-
-## Diagrama de Casos de Uso
-(translated to Portuguese).
-![image](/uploads/6be9e0ac6a0faf868dde8634073d6984/image.png)
-
-## Innovation
-(translated to Portuguese).
-Criamos o 1º BD a partir dos dados considerados necessários, a partir dos requisitos do cliente e da aplicação legado (Skillshare).  Subsequentemente, alteramos o protagonismo para as entidades que envolvem a ligação entre Alunos, Professores e Disciplina.
-Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
-
+:heavy_check_mark:
 
 No FRONTEND - criptografia e token.
 No BACKEND - arquitetura em oito camadas;
@@ -294,140 +249,6 @@ Distribuição dos BD - Se necessária a clusterização / fragmentação;
 No DATA WAREHOUSE - Ferramentas de relatório, de ETL no terceiro banco de dados;
 
 
-
-## Project Backlog
-
-#### Sprint 01 
-(translated to Portuguese).
-## - MVP Dashboard;
-
-- Reunião de kick-off com Ionic Health;
-
-- Criação de repositório;
-
-- Definição de cargos (SM e PO);
-
-- Definição de nome para a aplicação;
-
-- Brainstorm para discussão de primeiras ideias;
-
-- Apresentação de proposta de aplicação;
-
-- Criação do README.MD com informações sobre o projeto e instruções para execução da aplicação;
-
-- Criação de modelo entidade relacionamento para definir como os dados serão estruturados;
-
-- Início do Desenvolvimento do Core da Aplicação: Controller, Model (Arquitetura REST), Banco de Dados (MySQL); 
-
-- Implantação das Camadas + Spring boot e demais entidades;
-
-- Core da Aplicação Funcionando: Controller, Model (Arquitetura REST) e Banco de Dados (MySQL);
-
-- CRUD: da 2ª Rota de submissão de requisições:  Alunos-matéria (via POSTMAN);
-
-- Criação ou atualização automática das tabelas (Hibernate- MODEL);
-   
-- Validação de Dados: Campos que NÃO  podem estar vazios;
-
-- Testes - Início de implementação de teste unitário de métodos;
-
-#### Sprint 02
-
-- Mapeamento das entidades que irão compor o Data Mart;
-
-- Integração com o Pentaho;
-
-- Pentaho extrai dados do BD da aplicação legado (Skillshare);
-
-- Dados estão sendo enviados para o Data Mart Performance (banco de dados que compõe o Data Warehouse);
-
-- Job salva os arquivos de instruções do ETL e arquiva em uma pasta;
-
-- Inicio do DW: Para indicadores de alunos por matéria;
-
-- Criação das entidades Student, Fact Performance, Course e Time com Controller, Model (Arquitetura REST) e Banco de Dados;
-
-- Implementação de query dinâmica;
-
-- Continuação da integração Back-end com FrontEnd + Dashboards para as novas entidades;
-
-- Back-end acessa o Datamart Performance, entrega as novas informações desse banco de dados e disponibiliza para o dashboard (front-end);
-
-- Dashboard interativo apresenta os novos dados;
-
-#### Sprint 03.
-- BD: Armazenando dados analítico do Dashboard;
-
-- BD: População do BD com dados fictícios para teste de PERFORMANCE;
-
-- Back-end: 2a API- para buscar mais indicadores referentes Alunos vs Professores Vs Matérias vs Cursos;
-
-- Back-end: Finalização Integração FrontEnd + Dashboards;
-
-- Back-end: Mapeamento para guardar logs do chat;
-
-- Desenvolvimento de BD não relacional para armazenamento de chats e logs.
-
-- Construção de banco de dados não relacional para armazenamento de informação de logs e chats
-
-- Integração gráfica mostrando engajamento dos alunos, apresentando informações estatísticas de acesso a plataforma e trazendo informações de desempenho dos próprios alunos.
-
-#### Sprint 04.
-
-- Testes Unitários com Repository e Service;
-
-- Testes de Integração com Selenium;
-
-- Configuração do CI no Back-end nas branches Develop, Homolog e Master;
-
-- Ajustes na estrutura do back-end;
-
-- DW completo com os dados dos dashboards;
-
-- Finalização do rotina de logs do chat;
-
-- Testes automatizados;
-
-- Versionamento de banco de dados;
-
-#### Apresentação Final - dezembro de 2021.
-
-- Bugs e Documentação;
-
-#### Feira de Soluções - dezembro de 2021.
-
-
-## Equipe:
-
-#### Caroline Paz
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/CarolPaz)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-sousa-53a27972/)
-RA: 1460281923049
-
-#### Fábio Odaguiri
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ODAGAMMXIX)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioodaguiri/)
-RA: 1460281923008
-
-#### Felipe Santos
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/felipefsc)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santos-454060187/)
-RA: 1460281923011
-
-#### Gabriela Momilli
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/gabsmomilli)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriela-momilli-105b1a184)
-RA: 1460281923058
-
-#### Rafael Oliveira
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rafaelEstevam)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-estevam-de-oliveira/)
-RA: 1460281823040
-
-#### Wilson Vieira
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ZVIEWIL)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-amore-vieira-filho-7a4420183)
-RA: 1460281923041
 
 ## Running it up
 Deployment
@@ -453,3 +274,7 @@ Vide Pasta "DEPLOYMENT-FIND-STEPS-HERE" acima)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - Git Flow
 - OBS Studio / Kdenlive
+
+The End.
+:arrow_up: 
+[`Go Back Up`](#java-oracle-api---recrutamento-por-geolocaliza%C3%A7%C3%A3o-e-outros-crit%C3%A9rios).
