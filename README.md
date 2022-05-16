@@ -1,29 +1,44 @@
+## PORTFOLIO ACADÊMICO - PROJETOS INTEGRADORES:
+
+[SEMESTRE-01-2019.2 - *Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+
+[SEMESTRE-02-2020.1 - *Java-MySQL Stand Alone App - Gráfico de GANTT para Gestores*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
+
+[SEMESTRE-03-2020.2 - *Java-Oracle - Cadastro Positivo e Desbancarizados*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE)
+
+[SEMESTRE-04-2021.1 - *Java-Oracle API - Recrutamento por Geolocalização et al.*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
+
+##[SEMESTRE-05-2021.2 - *Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil*](https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS)
+
+##[FRONTEND of *Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil*](https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS_FE)	
+
+[SEMESTRE-06-2022.1 - *Python-MongoDB-LGPD opt-in opt-out ou Análise de Dados Eleitorais*]()
+
+***
+
+<h1 align="center">[Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil.]</h1>
+
+
 <h1 align="center">EDUCALYTICS</h1>
-
-## The Proposal
-
-Developing an application capable of fetching data from an external source i.e. legacy application (called Skillshare), in order to supply users with enough information as to administer an educational institution.  
-
-The data is produced through the regular use of a e-learning platform. Thus, a history of usage, including user interaction via chats and system logs, assignments, performance of students an user satisfaction are to be extracted, compiled and presented to our clients. 
-
-Eventually, Educalytics should be able to convey the behaviour the legacy applications' users and provide the educational institution with enough intelligence, supporting its decision making process.
-
-Following from these premises listed above, Educalytics will present an GUI by means of a DASHBOARD with the most important data from the educational institution vantage point.
+<h3 align="center">The Analytics of Education</h3>
 
 
-## Project Description
 
-In line with the Learning By Project methodology, our team (TECNOCODE) is working hard to deliver an operational application to a partner company called IONIC HEALTH, supported by our professors. Please see the details below.
+# I - RESUMO DO PROJETO 
+
+Plataforma com fulcro em Ciência de Dados, capaz de buscar e consumir de fontes externas *i.e.* aplicações legado (*in casu* "Skilllshare"), suprindo os tomadores de decisão de uma dada instituição de ensino com informações gerenciais.
+
+Os dados são produzidos pelo uso regular de uma plataforma externa de e-learning. Assim, o histórico de uso, incluindo as iterações pelo *chat* e *logs* de sistema, tarefas, performance acadêmica dos alunos e satisfação dos usuários podem ser extraídos, compilados e apresentados aos nossos clientes.
+
+Ao final, *Educalytics* deve ser capaz de demonstrar o comportamento dos usuários da aplicação legado e prover inteligência suficiente, suportando o processo de tomada de decisão.
+
+Consequentemente, *Educalytics* apresenta uma interface gráfica, na forma de *dashboard* com os dados mais importantes sob o ponto de vista da instituição de ensino contratante.
+
+A empresa Ionic Health figurou como cliente.
 
 For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-educalytics
 
-## Educalytics Project Status 
-
-
-	SPRINT 01 - 19/SETEMBRO/2021 = OK; 
-	SPRINT 02 - 10/OUTUBRO/2021 = OK;
-	SPRINT 03 - 07/NOVEMBRO/2021 = OK;
-	SPRINT 04 - 28/NOVEMBRO/2021 = OK;
+<h3 align="center">Arquitetura da Aplicação</h3>
 
 ## Features
 
