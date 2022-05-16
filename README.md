@@ -1,29 +1,199 @@
-## PORTFOLIO ACADÊMICO - PROJETOS INTEGRADORES:
+<h1 align="center">EDUCALYTICS</h1>
 
-[SEMESTRE-01-2019.2 - *Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+## The Proposal
 
-[SEMESTRE-02-2020.1 - *Java-MySQL Stand Alone App - Gráfico de GANTT para Gestores*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
+Developing an application capable of fetching data from an external source i.e. legacy application (called Skillshare), in order to supply users with enough information as to administer an educational institution.  
 
-[SEMESTRE-03-2020.2 - *Java-Oracle - Cadastro Positivo e Desbancarizados*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE)
+The data is produced through the regular use of a e-learning platform. Thus, a history of usage, including user interaction via chats and system logs, assignments, performance of students an user satisfaction are to be extracted, compiled and presented to our clients. 
 
-[SEMESTRE-04-2021.1 - *Java-Oracle API - Recrutamento por Geolocalização et al.*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
+Eventually, Educalytics should be able to convey the behaviour the legacy applications' users and provide the educational institution with enough intelligence, supporting its decision making process.
 
-## [SEMESTRE-05-2021.2 - *Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
-
-[SEMESTRE-06-2022.1 - *Python-MongoDB-LGPD opt-in opt-out ou Análise de Dados Eleitorais*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
-
-***
-
-<h1 align="center">[Java-Pentaho-My(SQL)Server-MongoDB - Engajamento Estudantil.]</h1>
+Following from these premises listed above, Educalytics will present an GUI by means of a DASHBOARD with the most important data from the educational institution vantage point.
 
 
-![image](https://user-images.githubusercontent.com/61089745/158082449-894548ea-e14d-4de7-896d-12d2a9ec1d74.png)
+## Project Description
 
-## FATEC & IONIC HEALTH - EDUCALYTICS:mortar_board:
+In line with the Learning By Project methodology, our team (TECNOCODE) is working hard to deliver an operational application to a partner company called IONIC HEALTH, supported by our professors. Please see the details below.
 
-### **I - RESUMO DO PROJETO**:page_facing_up: 
+For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-educalytics
 
-Neste quinto Projeto Integrador a FATEC trouxe o Cliente "IONIC HEALTH" para que pudéssemos achar uma solução tecnológica para sanar e atender às necessidades do cliente. 
+## Educalytics Project Status 
+
+
+	SPRINT 01 - 19/SETEMBRO/2021 = OK; 
+	SPRINT 02 - 10/OUTUBRO/2021 = OK;
+	SPRINT 03 - 07/NOVEMBRO/2021 = OK;
+	SPRINT 04 - 28/NOVEMBRO/2021 = OK;
+
+## Features
+
+- [x] 1) THE ARCHITECTURE OF EDUCALYTICS
+
+![image](/uploads/e0032883a1c423499c2894d11e8499e6/image.png)
+
+- [x]  2) FRONTEND;
+- [x]  2.1) DASHBOARD (MVP);
+![image](/uploads/517981e60e68b28b7e72d3d10446fa4a/image.png)
+
+- [x]  2.2) LOGIN SCREEN (WITH CRIPTOGRAPHY "bcript");
+
+<h1 align="center">
+![image](/uploads/e0773cc284d37700a7e26a4b038c7b3d/image.png)
+![image](/uploads/c1e112235e341cea25edc979989e9359/image.png)
+</h1>
+
+- [x]  2.3) REQUEST USING UNIQUE TOKEN;
+
+![LOGIN-TOKEN-BCRIPT](/uploads/646571c981a760861dbb4c37d5311cf0/LOGIN-TOKEN-BCRIPT.gif)
+
+- [x]  2.4) CONTINUOUS INTEGRATION;
+
+![image](/uploads/34378882d78dcdd3253a0ef56a1f0b66/image.png)
+![image](/uploads/94543a4b277168a2f502b2037cea70bb/image.png)
+![image](/uploads/237fff34df8d7d61529b82d9b16b8eff/image.png)
+![image](/uploads/1785d6f52205b99e41f9d10155a1b9f9/image.png)
+![image](/uploads/e1b19eac58d659982df144302c1b99a2/image.png)
+![image](/uploads/cb87d885f33c4105bf465036cc1de6ef/image.png)
+![image](/uploads/b1cbf24ed91eecfc1fad66dd619c867e/image.png)
+
+- [x]  2.5) STUDENT PARTICIPATION RESULTS BEING SHOWED VIA GRAPHICS ON DASHBOARD;
+![image](https://i.ibb.co/7Vz4D3W/GRAFICO-DE-ENGAJAMENTO-1.png)
+![image](https://i.ibb.co/925kHQh/GRAFICO-DE-ENGAJAMENTO-2.png)
+![image](https://i.ibb.co/Br2WZqJ/GRAFICO-DE-ENGAJAMENTO-3.png)
+
+- [x]  2.6) RESULTS ON EACH CLASS;
+
+![image](https://i.ibb.co/D1HJPdb/PERFORMANCE-POR-DISCIPLINA.png)
+
+- [x] 3) BACKEND - THE 8 LAYERS (MPConConRVSC).
+
+Model, 
+Payload, 
+Config, 
+Converter, 
+Repository, 
+Validator, 
+Services, 
+Controller.
+
+![image](/uploads/0e674ebc3fe4fc49a8d5541a08872ad6/image.png)
+
+![image](/uploads/c253e6519ed9b3e19c02988ad3fda2d9/image.png)
+
+- [x] 3.1) BACKEND - VALIDATION (user and password).
+
+![data security 01](/uploads/796c5457702781810a21ec2c57659593/WhatsApp-Video-2021-09-19-at-18.53.24.gif)
+
+- [x] 3.2) BACKEND - DATABASE ACCESS (MVP for Sprint 01 = concluded).
+
+![database access](/uploads/feb2ee0b86116211945623eaaaa58790/WhatsApp-Video-2021-09-19-at-18.53.36.gif)
+
+- [x] 3.3) BACKEND - ETL.
+
+![1](/uploads/21e823772a4943661033dcd66fb0d089/1.gif)
+![2](/uploads/503a5796964bfe840c5c6a32118100e0/2.gif)
+![3](/uploads/5a1b8a4ba4874ea3c8b52f8e854f3b07/3.gif)
+![5](/uploads/e891dc30db9253bb2a73cd7980675054/5.gif)
+
+- [x] 3.3.1) BACKEND - ETL TIME DIMENSION.
+
+![image](/uploads/505e55286db7a593eb523cc84e898c2b/image.png)
+![image](/uploads/f298a401ce83f50030e35abd0c758baa/image.png)
+
+- [x] 3.3.2) BACKEND - ETL COURSE DIMENSION ON THE LEGACY APPLICATION.
+
+![image](/uploads/f1b312c4656e2dc08aa6de984c31bc5a/image.png)
+![image](/uploads/06662513e559dbc99ca404eaba33ce69/image.png)
+![image](/uploads/3ebab2b710d5eeb5a0f065a6a5a88d9d/image.png)
+![image](/uploads/a904e258f58fb0c7e434972f2e2c23f8/image.png)
+
+- [x] 3.3.3) BACKEND - ETL COURSE TO DATAMART ON THE PROGRAMME DIMENSION OF THE LEGACY APPLICATION.
+
+![image](/uploads/74509b0f9f1993f3fe64642bb2245bb8/image.png)
+![image](/uploads/ffcc3ede8013d7d43c3a9031d20f2d8f/image.png)
+![image](/uploads/fa0bc7f462673c0660de478abc6165f2/image.png)
+![image](/uploads/b4a6f7dbe97abbbce304512ac8174021/image.png)
+![image](/uploads/618157edc00a59dc9d342c3cf891a983/image.png)
+![image](/uploads/c1194bc804482486775cb668dc582bad/image.png)
+
+- [x] 4) EDUCALYTICS's DATABASE (RELATIONAL)
+
+- [x] 4.1) LOGICAL MODEL
+
+![image](/uploads/17d3c36f5538956ce7511dca92493aa3/image.png)
+
+- [x] 4.2) ENTITY-RELATIONSHIP MODEL
+
+![image](/uploads/503da79cc91e5b0b9c23ce3f66f0eaaa/image.png)
+
+- [x] 4.3) EDUCALYTICS's DATABASE (RELATIONAL - MVP SPRINT 01)
+
+![image](/uploads/13d93f79569bc96e400feae3baa779ec/image.png)
+
+- [x] 4.4) EDUCALYTICS's DATABASE (RELATIONAL - MVP SPRINT 01)
+
+![image](/uploads/1c0bc6a6ecc72ab2dbfef7997706bc14/image.png)
+
+- [x] 4.5) SKILLSHARE DATABASE MODEL
+
+![image](/uploads/d91d13b815360da6147c7a0d410849a4/image.png)
+
+- [x] 4.6) DATAMART PERFORMANCE DATABASE MODEL
+
+![image](/uploads/b0d01ac27de674663cb2c9eb39338b01/image.png)
+![image](/uploads/5873d267c59f8cb8a58a11f81419e2f5/image.png)
+
+- [x] 4.7) DATAMART PARTICIPATION ETL INTEGRATION
+
+![image](https://i.ibb.co/3m6V6n6/DATAMART-ENGAJAMENTO.png)
+
+- [x] 4.8) DATAMART PARTICIPATION - EXTRACTING DATA FROM MONGO DB
+
+![image](https://i.ibb.co/ssS7yBm/EXTRACAO-MONGO-DB.png)
+
+- [x] 4.9) DATAMART PARTICIPATION - EXTRACTING FROM DIMENSION TO FACT
+
+![image](https://i.ibb.co/W27gGDW/EXTRACAO-DIMENSOES-FATO.png)
+
+- [x] 5) EDUCALYTICS's DATABASE (NON-RELATIONAL)
+
+![image](https://i.ibb.co/pXyJ1qQ/DATAMART-02-ENGAJAMENTO.png)
+
+- [x] 5.1) DATAMART PARTICIPATION STRUCTURE
+
+![image](https://i.ibb.co/b63mVjP/MODELAGEM-ATUALIZADA.png)
+
+- [x] 5.1.1) DATAMART PARTICIPATION - CONNECTION COLLECTION
+
+![image](https://i.ibb.co/kMLBtPv/COLLECTION-CONNECTIONS.png)
+
+- [x] 5.1.2) DATAMART PARTICIPATION - MESSAGES COLLECTION
+
+![image](https://i.ibb.co/NNj5jnf/COLLECTION-MESSAGES.png)
+
+- [x] 5.2) NON-RELATIONAL DATABASE ETL
+
+![image](https://i.ibb.co/wMrLpBB/ETL-BDNR.png)
+
+- [x] 5.3) CHAT+LOGS REGISTERS INSERTED ON MONGO DB CLOUD
+![image](https://i.ibb.co/WxhRFtm/DADOS-DO-CHAT-E-DOS-LOGS.png)
+
+## Milestones
+
+| Sprint | Data  | Video                                       |
+|--------|-------|---------------------------------------------|
+| 1      | September 19th, 2021 |---------------------------------------------|
+| 2      | October 10th, 2021 |---------------------------------------------|
+| 3      | November 7th, 2021 |---------------------------------------------|
+| 4      | November 28th, 2021 |---------------------------------------------|
+
+
+
+
+## Elicitation, Story Cards an Requirements
+### The Problem we aim to solve
+
+(translated to Portuguese).
 
 O cliente busca obter indicadores e avaliar o uso e gerenciamento de sua plataforma de cursos, buscando os alunos que estão com boa frequência nas aulas, que entra em contato por chat para sanar dúvidas e avaliação das aulas dadas.
 
@@ -39,22 +209,26 @@ Com base nesse briefing, solicita uma plataforma funcional com capacidade analí
 * Guardar logs e histórico das conversas do chat;
 
 
-#### Requisitos Funcionais
+## Requirements
 
+#### Functional
 
-| Functional Requirements                                                 | Reference |
-|------------------------------------------------------------------------|--------|
+(translated to Portuguese).
+
+| Functional Requirements                                                 | Reference | Priority | Sprint |
+|------------------------------------------------------------------------|--------|------------|--------|
 | Dashboard: apresentar dados ao cliente (via backend e banco de dados 01 relacional)        | RF01   | 1          | 1      |
 | Continuous Integration | RF02   | 1          | 4      |
 | Tratar Logs| RF03   | 1          | 2      |
-| Tratar Chats   | RF04  | 1          | 3     |
+| Tratar Chats T   | RF04  | 1          | 3     |
 | Acumular dados históricos tratados e gerar inteligência para o client, via DASHBOARD |RF05	| 1	| 4
 
 
 
 
-#### Requisitos Não Funcionais
+#### Non-functional
 
+(translated to Portuguese).
 
 | Non-functional Requirements                            | Reference | 
 |------------------------------------------------------|--------|
@@ -66,226 +240,208 @@ Com base nesse briefing, solicita uma plataforma funcional com capacidade analí
 
 
 
-### Proposta:
+## User Stories
+(translated to Portuguese).
 
-Desenvolver uma aplicação capaz de buscar dados de uma fonte externa, ou seja, uma aplicação legada (chamado Skillshare), para fornecer aos usuários informações suficientes para administrar uma instituição de ensino.
-
-Os dados são produzidos através do uso regular de uma plataforma de e-learning. Assim, um histórico de uso, incluindo interação do usuário via chats e logs do sistema, atribuições, desempenho dos alunos e satisfação do usuário devem ser extraídos, compilados e apresentados aos nossos clientes.
-
-Eventualmente, a Educalytics deve ser capaz de transmitir o comportamento dos usuários de aplicações legados e fornecer à instituição de ensino inteligência suficiente, apoiando seu processo de tomada de decisão.
-
-Seguindo essas premissas listadas acima, a Educalytics apresentará uma GUI por meio de um DASHBOARD com os dados mais importantes do ponto de vista da instituição de ensino.
-
-#### Diagrama de Casos de Uso:
-
-![image](https://user-images.githubusercontent.com/61089745/159184157-6fff7a22-2156-4560-a6f5-bcabda70e1ac.png)
+| Quem? | O que? | Por quê? |
+|-------|--------|----------|
+| Aplicação Legado | Fornece plataforma de educação e gera dados históricos | Dados que serão tratados e analisados
+| IONIC Health | Quer analisar dados históricos para a tomada de decisão | Para mapeamento de aproveitamento etc. dos cursos EAD |
+| Tecnocode | Desenvolve a EDUCALYTICS | Para aplicar na prática os conhecimentos de programação, banco de dados (não)relacional, data warehouse, continuous inntegration,  além de adquirir experiência profissional em desenvolvimento de projetos |
 
 
-#### FEATURES:
 
-1- ARQUITETURA DO EDUCALYTICS
+## Usability:
+(translated to Portuguese).
 
-![image](https://user-images.githubusercontent.com/61089745/159179873-f5a8d7c4-46a5-4a91-91a1-e0e801627a9f.png)
+**HEURISTIC EVALUATION**
 
-2- FRONTEND;
+* Correspondência entre o sistema e o mundo real
 
-2.1- DASHBOARD (MVP);
+O sistema possuirá uma interface intuitiva com menus e botões de ações de fácil entendimento, utilizando nomenclatura familiar aos seus usuários. As ações tais como acompanhamento dos indicadores por meio de Dashboard, chat por colaborador, avaliação por aula, induzindo os caminhos para que a utilização seja fluída.
 
-![image](https://user-images.githubusercontent.com/61089745/159179889-472655a1-6d5e-42a4-9cb2-eea4712c2dea.png)
+* Controle do usuário e liberdade
 
-2.2- TELA DE LOGIN (COM CRIPTOGRAFIA "bcript");
+Com o sistema intuitivo, o usuário de nível de gerenciamento possuirá uma certa liberdade no sistema, minimizando o número de cliques e de erros, pois conseguirá identificar claramente as funcionalidades e comandos disponíveis, sem precisar decorar procedimento algum. Sendo a facilidade em identificar cada gráfico proposto no dashboard, para fim de avaliar melhorias entre os alunos e colaboradores que realizam algum curso na plataforma.
 
-![image](https://user-images.githubusercontent.com/61089745/159179961-dcf5594d-12dc-478b-b458-35f7781dd083.png)
+* Design estético e minimalista
 
-![image](https://user-images.githubusercontent.com/61089745/159179972-f344d07b-364b-4aed-9f0d-b81657fcc252.png)
+Com design intuitivo o sistema exibirá informações precisas e de fácil interpretação, com gráficos de cards, donuts e ícones familiares. 
 
+## Diagrama de Casos de Uso
+(translated to Portuguese).
+![image](/uploads/6be9e0ac6a0faf868dde8634073d6984/image.png)
 
-2.3- SOLICITAÇÃO USANDO TOKEN ÚNICO;
-
-![image](https://user-images.githubusercontent.com/61089745/164943290-850f703d-27b1-4854-b3dd-32f75d35b41d.png)
-
-2.4- INTEGRAÇÃO CONTÍNUA;
-
-![image](https://user-images.githubusercontent.com/61089745/159180157-a0b5818d-0427-46b8-acdc-74a18df75e9c.png)
-
-![image](https://user-images.githubusercontent.com/61089745/159180165-7dd29c0b-2c8b-45b2-8065-21603f725f8c.png)
-
-![image](https://user-images.githubusercontent.com/61089745/159180282-37075ff4-a3e2-4caf-a144-ddcf97ee4a75.png)
-
-![image](https://user-images.githubusercontent.com/61089745/159180717-f73588d8-e928-4b77-bf04-f0061acfe084.png)
-
-
-2.5- APRESENTAÇÃO DOS RESULTADOS DA PARTICIPAÇÃO DOS ALUNOS VIA GRÁFICOS NO PAINEL;
-![image](https://user-images.githubusercontent.com/61089745/159181410-6229d04f-c7df-4b15-8979-61d8e15d9efd.png)
-
-
-2.6- RESULTADOS EM CADA AULA;
-
-![image](https://user-images.githubusercontent.com/61089745/159182151-5df61b9d-3654-4446-8038-e1b2e1abb040.png)
-
-3-  BACKEND - AS 8 CAMADAS (MPConConRVSC).
-
-Model, 
-Payload, 
-Config, 
-Converter, 
-Repository, 
-Validator, 
-Services, 
-Controller.
-
-![image](https://user-images.githubusercontent.com/61089745/159182772-fe3f1484-3eb9-4c07-96d6-aaa1e9545245.png)
-
-3.1- BACKEND - VALIDAÇÃO (usuário e senha).
-
-![image](https://user-images.githubusercontent.com/61089745/159183570-aa8ac41f-46a5-4dac-a5e7-e7f38a69a303.png)
-
-3.2- BACKEND - ACESSO A BANCO DE DADOS
-
-![image](https://user-images.githubusercontent.com/61089745/159183668-f5723b53-0a9a-42ce-9114-4d4a4a87f344.png)
-
-3.3- BACKEND - ETL.
-
-![image](https://user-images.githubusercontent.com/61089745/159183744-7e2c9c21-0b80-4aef-8874-6ec2d75805da.png)
-
-
-3.3.1- BACKEND - ETL TIME DIMENSION.
-
-![image](https://user-images.githubusercontent.com/61089745/159183767-2cab25de-25d6-4c70-a051-04a98087495f.png)
-
-4- BASE DE DADOS DO EDUCALYTICS (RELACIONAL)
-
-4.1- MODELO LÓGICO
-
-![image](https://user-images.githubusercontent.com/61089745/159183917-ca07238a-9570-4461-917f-481f6088cb52.png)
-
-4.2- MODELO DE RELACIONAMENTO DE ENTIDADE
-
-![image](https://user-images.githubusercontent.com/61089745/159183927-84af1794-bd8d-49a8-a4cc-b9727d9109e6.png)
-
-4.3 PARTICIPAÇÃO DO DATAMART - EXTRAÇÃO DE DADOS DO MONGO DB
-
-![image](https://i.ibb.co/ssS7yBm/EXTRACAO-MONGO-DB.png)
-
-
-5- BASE DE DADOS(NÃO RELACIONAL)
-
-![image](https://i.ibb.co/pXyJ1qQ/DATAMART-02-ENGAJAMENTO.png)
-
-5.1- PARTICIPAÇÃO DO DATAMART - COLETA DE MENSAGENS
-
-![image](https://i.ibb.co/NNj5jnf/COLLECTION-MESSAGES.png)
-
-5.2- REGISTRO DE CHAT+LOGS INSERIDO NO MONGO DB CLOUD
-![image](https://i.ibb.co/WxhRFtm/DADOS-DO-CHAT-E-DOS-LOGS.png)
-
-
-### Inovação
+## Innovation
+(translated to Portuguese).
 Criamos o 1º BD a partir dos dados considerados necessários, a partir dos requisitos do cliente e da aplicação legado (Skillshare).  Subsequentemente, alteramos o protagonismo para as entidades que envolvem a ligação entre Alunos, Professores e Disciplina.
 Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 
-- No FRONTEND - criptografia e token;
-- No BACKEND - arquitetura em oito camadas;
-- No BANCO DE DADOS 01 (RELACIONAL) - Primeira versão com todos os dados necessários (será decomposto);
-- No BANCO DE DADOS 02 (NÃO-RELACIONAL) - Receberá tabelas do BD01, segundo critérios de performance;
-- Distribuição dos BD - Se necessária a clusterização / fragmentação;
-- No DATA WAREHOUSE - Ferramentas de relatório, de ETL no terceiro banco de dados.
+No FRONTEND - criptografia e token.
+No BACKEND - arquitetura em oito camadas;
+No BANCO DE DADOS 01 (RELACIONAL) - Primeira versão com todos os dados necessários (será decomposto);
+No BANCO DE DADOS 02 (NÃO-RELACIONAL) - Receberá tabelas do BD01, segundo critérios de performance;
+Distribuição dos BD - Se necessária a clusterização / fragmentação;
+No DATA WAREHOUSE - Ferramentas de relatório, de ETL no terceiro banco de dados;
 
 
 
-### **II - TECNOLOGIAS**:iphone:
+## Project Backlog
 
-![image](https://user-images.githubusercontent.com/61089745/161389576-a377fd09-2c54-40b6-9a7e-c000dd778977.png)
-- Java: É uma linguagem de programação orientada a objetos. Foi utilizado essa linguagem para o desenvolvimento do backend da aplicação.
+#### Sprint 01 
+(translated to Portuguese).
+## - MVP Dashboard;
 
-![image](https://user-images.githubusercontent.com/61089745/161391318-463c5040-eaab-4d45-9ff2-6dfcf4f81991.png)
-- IntelliJ/Eclipse: Java é uma linguagem de programação orientada a objetos, para desenvolver o backend foi usado os ambientes Eclipse e Intellij para desenvolvimento integrado, escrito em Java. 
+- Reunião de kick-off com Ionic Health;
 
-![image](https://user-images.githubusercontent.com/61089745/161391346-b359a7ca-73c9-460d-8814-b52cc435d222.png)
-- VS CODE: O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Foi usado para rodar a aplicação frontend e backend no ambiente de alguns integrantes do grupo.
+- Criação de repositório;
 
-![image](https://user-images.githubusercontent.com/61089745/161389691-e18df3bc-2b7d-41bd-b70b-fd59e8d8b266.png)
-- JavaScript/NodeJS: JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS. Foi usada essa linguagem para desenvolver o frontend.
+- Definição de cargos (SM e PO);
 
-![image](https://user-images.githubusercontent.com/61089745/161391408-584a934b-73f9-4c74-b463-a8b2d9b71ee0.png)
-- MicrosoftSQLServer: O Microsoft SQL Server é um sistema gerenciador de Banco de dados relacional desenvolvido pela Sybase em parceria com a Microsoft. Foi usado para o desenvolvimento do ETL.
+- Definição de nome para a aplicação;
 
-![image](https://user-images.githubusercontent.com/61089745/161391358-e87e6d1a-63ec-40bc-b19d-422df7414cea.png)
-- MySQL: O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. Foi usado para o desenvolvimento do banco relacional da aplicação.
+- Brainstorm para discussão de primeiras ideias;
 
-![image](https://user-images.githubusercontent.com/61089745/161389774-0acaa3e2-478b-444f-aeba-2f6ad4fec469.png)
-- React: O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+- Apresentação de proposta de aplicação;
 
-![image](https://user-images.githubusercontent.com/61089745/161389788-7f4c74dd-fa4b-410a-9e51-376cf8c33817.png)
-- Insomnia/Postman: É um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Utizada para testar o GET, PUT, POST e DELETE das classes controllers da aplicação.
+- Criação do README.MD com informações sobre o projeto e instruções para execução da aplicação;
 
-![image](https://user-images.githubusercontent.com/61089745/161389814-314472c1-6046-4348-93ff-c5f1781d0f82.png)
-- GitLab/GitFlow: O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. Foi usado para armazenar o código do projeto e desenvolver o CI/CD GitFLow da aplicação.
+- Criação de modelo entidade relacionamento para definir como os dados serão estruturados;
 
-![image](https://user-images.githubusercontent.com/61089745/161391438-d192b5d7-b7b2-4acc-89f8-e4db42c70c97.png)
-- MongoDB: É um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas. Foi usado para armazenar os logs do chat da aplicação legada no banco não relacional.
+- Início do Desenvolvimento do Core da Aplicação: Controller, Model (Arquitetura REST), Banco de Dados (MySQL); 
 
-![image](https://user-images.githubusercontent.com/61089745/161389851-2c62d470-bb85-479e-9ac2-67c9346a3ee5.png)
-- OBS Studio/Kdenlive: É um programa de streaming e gravação gratuito. Usada para gravar vídeos das sprints.
+- Implantação das Camadas + Spring boot e demais entidades;
 
-### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
+- Core da Aplicação Funcionando: Controller, Model (Arquitetura REST) e Banco de Dados (MySQL);
 
-Nesse projeto estavámos com uma equipe reduzida perto dos outros grupos da turma, o Projeto Integrador foi o mais desafiador com requisitos complexos e exigindo conhecimentos específicos para compor a aplicação. Com isso, decidimos dividir a equipe deixando os integrantes assumir as tarefas que mais tinham conhecimento para ganharmos tempo e posteriormente dedicarmos em correr atrás das features que não tínhamos habilidades.
+- CRUD: da 2ª Rota de submissão de requisições:  Alunos-matéria (via POSTMAN);
 
-Portanto, optei por continuar no desenvolvimento do back-end da aplicação criando as entidades e demais camadas do sistema.
+- Criação ou atualização automática das tabelas (Hibernate- MODEL);
+   
+- Validação de Dados: Campos que NÃO  podem estar vazios;
 
-Desenvolvi no back-end as classes para integração com o front-end e para o ETL, sendo:
-- Login;
-- Profile;
-- FactParticipation;
-- FatcPerformance;
-- Programme;
-- Student;
-- Time;
-- TSS;
-- Course;
-- DimTime.
+- Testes - Início de implementação de teste unitário de métodos;
 
-![image](https://user-images.githubusercontent.com/61089745/164789664-7ac7c21b-e7b5-47f4-9137-2220ed495ff9.png)
+#### Sprint 02
+
+- Mapeamento das entidades que irão compor o Data Mart;
+
+- Integração com o Pentaho;
+
+- Pentaho extrai dados do BD da aplicação legado (Skillshare);
+
+- Dados estão sendo enviados para o Data Mart Performance (banco de dados que compõe o Data Warehouse);
+
+- Job salva os arquivos de instruções do ETL e arquiva em uma pasta;
+
+- Inicio do DW: Para indicadores de alunos por matéria;
+
+- Criação das entidades Student, Fact Performance, Course e Time com Controller, Model (Arquitetura REST) e Banco de Dados;
+
+- Implementação de query dinâmica;
+
+- Continuação da integração Back-end com FrontEnd + Dashboards para as novas entidades;
+
+- Back-end acessa o Datamart Performance, entrega as novas informações desse banco de dados e disponibiliza para o dashboard (front-end);
+
+- Dashboard interativo apresenta os novos dados;
+
+#### Sprint 03.
+- BD: Armazenando dados analítico do Dashboard;
+
+- BD: População do BD com dados fictícios para teste de PERFORMANCE;
+
+- Back-end: 2a API- para buscar mais indicadores referentes Alunos vs Professores Vs Matérias vs Cursos;
+
+- Back-end: Finalização Integração FrontEnd + Dashboards;
+
+- Back-end: Mapeamento para guardar logs do chat;
+
+- Desenvolvimento de BD não relacional para armazenamento de chats e logs.
+
+- Construção de banco de dados não relacional para armazenamento de informação de logs e chats
+
+- Integração gráfica mostrando engajamento dos alunos, apresentando informações estatísticas de acesso a plataforma e trazendo informações de desempenho dos próprios alunos.
+
+#### Sprint 04.
+
+- Testes Unitários com Repository e Service;
+
+- Testes de Integração com Selenium;
+
+- Configuração do CI no Back-end nas branches Develop, Homolog e Master;
+
+- Ajustes na estrutura do back-end;
+
+- DW completo com os dados dos dashboards;
+
+- Finalização do rotina de logs do chat;
+
+- Testes automatizados;
+
+- Versionamento de banco de dados;
+
+#### Apresentação Final - dezembro de 2021.
+
+- Bugs e Documentação;
+
+#### Feira de Soluções - dezembro de 2021.
 
 
-No back-end utilizei features novas que não tinha conhecimento como Query dinâmica na camada Repository para o front-end conseguir realizar filtragem de dados específicos.
+## Equipe:
 
-![image](https://user-images.githubusercontent.com/61089745/164790295-28316633-f3b0-4af6-8308-eeb14384cbf2.png)
+#### Caroline Paz
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/CarolPaz)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-sousa-53a27972/)
+RA: 1460281923049
 
-![image](https://user-images.githubusercontent.com/61089745/164790916-57154d14-2407-476b-8e3a-27a93d700716.png)
+#### Fábio Odaguiri
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ODAGAMMXIX)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioodaguiri/)
+RA: 1460281923008
 
+#### Felipe Santos
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/felipefsc)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santos-454060187/)
+RA: 1460281923011
 
-Implementei Testes Unitários para cobertura do código e integração com o CI;
+#### Gabriela Momilli
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/gabsmomilli)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriela-momilli-105b1a184)
+RA: 1460281923058
 
-![image](https://user-images.githubusercontent.com/61089745/164792269-6d8a12bf-e999-4915-82d4-63926b337d0e.png)
+#### Rafael Oliveira
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rafaelEstevam)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-estevam-de-oliveira/)
+RA: 1460281823040
 
+#### Wilson Vieira
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ZVIEWIL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-amore-vieira-filho-7a4420183)
+RA: 1460281923041
 
-Participei do início do desenvolvimento do CI/CD da aplicação no GitLab, criando imagem no docker e configurando a pipeline.
+## Running it up
+Deployment
+No seu dispositivo
+Vide Pasta "DEPLOYMENT-FIND-STEPS-HERE" acima)
 
-![image](https://user-images.githubusercontent.com/61089745/164791429-9f5b27f9-69c1-4a84-9248-cb9a1fe5ed1d.png)
+## Ferramentas Tecnologicas
+💻
 
-![image](https://user-images.githubusercontent.com/61089745/164791743-94a25e55-72a5-4e62-bf51-6a03cf813eea.png)
-
-
-### **IV - APRENDIZADOS EFETIVOS**:closed_book:
-
-**Hard Skills Efetivamente Desenvolvidas:**
-
-Este foi o Projeto Integrador mais desafiador que tivemos ao decorrer do curso, foi aplicado todo o conhecimento adquirido nos semestres anteriores e tivemos que ir atrás de novos aprendizados com isso, pude aumentar minhas Skills.
-
-Aprimorei os conhecimentos em back-end utilizando novas feautures como Query Dinâmica e Validação por Token, apliquei testes unitários e integração contínua com o CI;
-Através dos conhecimentos compartilhados entre o grupo aprendi sobre a ferramenta ETL;
-
-Aprimorei meus conhecimentos em testes unitários utilizando JUnit, criei os testes unitários para cobrir o código backend e mais testes para integrar e validar o Git Flow CI/CD;
-
-Pela primeira vez utilizei o Docker para realizar a integração contínua em CI;
-
-**Soft Skills Efetivamente Desenvolvidas:**
-
-Continuei desenvolvendo e melhorando a comunicação, trabalho em equipe e ajuda mútua;
-
-Tivemos que sair da nossa zona de conforto e buscar novos conhecimentos através de cursos extras e ajuda dos professores para conseguir desenvolver novas features da aplicação em que não tinhamos vivência;
-
-Conseguimos ter a inteligência e resiliência para construir um bom planejamento. O método Scrum nos ajudou a cumprir todas as entregas e sprints do projeto.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS CODE](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- Git Flow
+- OBS Studio / Kdenlive
