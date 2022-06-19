@@ -302,9 +302,9 @@ Controller.
 
 :axe: Atuei como *Product Owner* e *Scrum Master*
 
-:axe: Como P.O., compreendi imediatamente a necessidade e ralizei comunicação veloz com a equipe para criar uma  plataforma de visão gerencial, provendo inteligência do negócio e habilitado o pesamento analítico, com dashboards, histórico de chat e armazenamento desses dados históricos e escalabilidade.
+:axe: Como P.O., compreendi imediatamente a necessidade e realizei comunicação veloz com a equipe para criar uma plataforma de visão gerencial, provendo inteligência do negócio e habilitado o pensamento analítico, com dashboards, histórico de chat e armazenamento desses dados históricos e escalabilidade.
 
-:axe:Através da plataforma, deve ser possível encontrar os alunos com melhores e piores:
+:axe: Através da plataforma, deve ser possível encontrar os alunos com melhores e piores:
    i. frequência nas aulas;
    ii. interação (chat, para sanar dúvidas e avaliação das aulas dadas).
    iii. plataforma funcional com capacidade analítica
