@@ -236,7 +236,7 @@ Controller.
 </details>
 
 
-<details><summary> 5.x) DATAMART "ENGAJAMENTO" - ETL DE BD NÃO-RELACIONAL</summary>
+<details><summary> 5.2) DATAMART "ENGAJAMENTO" - ETL DE BD NÃO-RELACIONAL</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506962-ed873842-0ac2-4f14-8d8f-0c6419741a2a.png">
 </p>
@@ -244,21 +244,21 @@ Controller.
 
 
 
-<details><summary> 5.Y)  ESTRUTURA DO MONGODB CLOUD (COLLECTIONS) - CHAT+LOGS DOS ALUNOS.</summary>
+<details><summary> 5.3)  ESTRUTURA DO MONGODB CLOUD (COLLECTIONS) - CHAT+LOGS DOS ALUNOS.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507538-d7f3ba49-b2a4-4093-a94b-8c23e24154ce.png">
 </p>
 </details>
 
 
-<details><summary> 5.1.1)  MONGODB "CONNECTIONS" COLLECTION PARA DATAMART "ENGAJAMENTO"</summary>
+<details><summary> 5.3.1)  MONGODB "CONNECTIONS" COLLECTION PARA DATAMART "ENGAJAMENTO"</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507269-5f95f35a-220f-48ea-81c9-1e5d892b885e.png">
 </p>
 </details>
 
 
-<details><summary> 5.1.2) MONGODB "MESSAGES" COLLECTION PARA DATAMART "ENGAJAMENTO"</summary>
+<details><summary> 5.4.2) MONGODB "MESSAGES" COLLECTION PARA DATAMART "ENGAJAMENTO"</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507273-69592d50-dd7c-4c1b-9665-0c21f1429383.png">
 </p>
@@ -304,7 +304,7 @@ Controller.
 
 :axe: Como P.O., compreendi imediatamente a necessidade e realizei comunicação veloz com a equipe para criar uma plataforma de visão gerencial, provendo inteligência do negócio e habilitado o pensamento analítico, com dashboards, histórico de chat e armazenamento desses dados históricos e escalabilidade.
 
-:axe: Através da plataforma, deve ser possível encontrar os alunos com melhores e piores:
+:axe: Através da plataforma, tornou-se possível encontrar os alunos com melhores e piores:
    i. frequência nas aulas;
    ii. interação (chat, para sanar dúvidas e avaliação das aulas dadas).
    iii. plataforma funcional com capacidade analítica
