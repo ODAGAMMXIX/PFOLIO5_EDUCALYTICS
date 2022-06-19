@@ -37,6 +37,8 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 
 <h3 align="center">Arquitetura da Aplicação</h3>
 
+_____________---------------------------IMAGEM FINAL DO PROJETO-------------------------------___________________________
+
 <details><summary> 1) THE ARCHITECTURE OF EDUCALYTICS</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504029-d49d6599-06c0-4d7a-85d3-4c29d906922e.png">
@@ -322,12 +324,14 @@ Controller.
 :heavy_check_mark:
 
 No FRONTEND - criptografia e token.
-No BACKEND - arquitetura em oito camadas;
+No BACKEND - arquitetura em oito camadas, com múltiplos BACKENDs, tanto para acessar o DATAWAREHOUSE e apresetar dados no DASHBOARD ou acessar o MONGODB pra acessar os dados de CHAT e LOGs;
 No BANCO DE DADOS 01 (RELACIONAL) - Primeira versão com todos os dados necessários (será decomposto);
 No BANCO DE DADOS 02 (NÃO-RELACIONAL) - Receberá tabelas do BD01, segundo critérios de performance;
+CI (*Continuous Integration*): testes do BACKEND da aplicação;
 Distribuição dos BD - Se necessária a clusterização / fragmentação;
-No DATA WAREHOUSE - Ferramentas de relatório, de ETL no terceiro banco de dados;
-
+No DATA WAREHOUSE - Um *Datamart* para cada a indicador métrico apresentado no *DASHBOARD*;
+*DASHBOARD*: Emulação do PDI-PENTAHO, para a apresentação dos dados aos usuários de alta gerência;
+Estudo profundo do PENTAHO, realizando ETL (Extraction, Transformation, Loading) de duas fontes: um banco de dados SQLServer da aplicação legado (contendo os dados de trabalho cotidiano dos alunos à platarforma de e-learning ) e do MongoDB (contendo dados de interação similiar á uma rede social, como chat e seus logs).
 
 
 ## Running it up
