@@ -23,23 +23,23 @@
 
 # I - RESUMO DO PROJETO 
 
-Plataforma com fulcro em Ciência de Dados, capaz de buscar e consumir de fontes externas *i.e.* aplicações legado (*in casu* "Skilllshare"), suprindo os tomadores de decisão de uma dada instituição de ensino com informações gerenciais.
+**Desafio:** Desenvolver ua plataforma com fulcro em Ciência de Dados, capaz de buscar e consumir fontes externas *i.e.* aplicações legado (*in casu* "Skilllshare"), suprindo os tomadores de decisão de uma dada instituição de ensino com informações gerenciais.
 
-Os dados são produzidos pelo uso regular de uma plataforma externa de e-learning. Assim, o histórico de uso, incluindo as iterações pelo *chat* e *logs* de sistema, tarefas, performance acadêmica dos alunos e satisfação dos usuários podem ser extraídos, compilados e apresentados aos nossos clientes.
+Os dados são produzidos pelo uso regular de uma plataforma externa de *e-learning*, por alunos e professores. Assim, o histórico de uso, incluindo as interações pelo *chat* e *logs* de sistema, tarefas, desempenho acadêmico dos alunos e satisfação dos usuários podem ser extraídos, compilados e apresentados à Diretoria e/ou acionistas.
 
-Ao final, *Educalytics* deve ser capaz de demonstrar o comportamento dos usuários da aplicação legado e prover inteligência suficiente, suportando o processo de tomada de decisão.
+Ao final, *Educalytics* foi capaz de demonstrar o comportamento dos usuários da aplicação legado, provendo inteligência suficiente, suportando o processo de tomada de decisão.
 
 Consequentemente, *Educalytics* apresenta uma interface gráfica, na forma de *dashboard* com os dados mais importantes sob o ponto de vista da instituição de ensino contratante.
 
-A empresa Ionic Health figurou como cliente.
-
 For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-educalytics
 
-<h3 align="center">Arquitetura da Aplicação</h3>
+## 1) THE ARCHITECTURE OF EDUCALYTICS
 
-_____________---------------------------IMAGEM FINAL DO PROJETO-------------------------------___________________________
+<p align="center">
+<img src="[https://user-images.githubusercontent.com/54047352/168504109-64045972-2b34-4a19-8098-23b1017fd5d2.png](https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS/blob/45d6b876afe01fb338dd42061d5e016d8c03d9db/imgs/Screenshot%20from%202022-06-19%2020-31-26.png)">
+</p>
 
-<details><summary> 1) THE ARCHITECTURE OF EDUCALYTICS</summary>
+<details><summary> </summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504029-d49d6599-06c0-4d7a-85d3-4c29d906922e.png">
 </p>
