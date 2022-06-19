@@ -33,17 +33,12 @@ Consequentemente, *Educalytics* apresenta uma interface gráfica, na forma de *d
 
 For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-educalytics
 
-## 1) THE ARCHITECTURE OF EDUCALYTICS
+**1) THE ARCHITECTURE OF EDUCALYTICS**
 
 <p align="center">
 <img src="https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS/blob/da653ed5e9fdf7ab98ecbb05d5a555adeea3042b/imgs/Screenshot%20from%202022-06-19%2020-31-26.png">
 </p>
 
-<details><summary> </summary>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/54047352/168504029-d49d6599-06c0-4d7a-85d3-4c29d906922e.png">
-</p>
-</details>
 
 - [x]  2) FRONTEND;
 
@@ -109,7 +104,7 @@ Validator,
 Services, 
 Controller.
 
-<details><summary> Camadas:</summary>
+<details><summary> Layers (Software Engenieering).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504378-89855926-2958-452a-9e9d-e07bb78eef77.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504379-0c5e1a0b-0404-4217-b9c8-76860088de30.png">
@@ -124,7 +119,7 @@ Controller.
 </details>
 
 
-<details><summary> 3.2) BACKEND - DATABASE ACCESS (MVP for Sprint 01 = concluded).</summary>
+<details><summary> 3.2) BACKEND - DATABASE ACCESS.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504448-0fefada2-66d8-49b0-8266-72aa7c3f3f32.gif">
 </p>
@@ -224,21 +219,21 @@ Controller.
 </details>
 
 
-<details><summary> 5) DUPLO ETL (MONGODB + APPLICAÇÃO LEGADO)</summary>
+<details><summary> 5) DOUBLE ETL (MONGODB + LEGACY APPLICATION)</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506605-078d9b67-53fd-4e17-974f-bcd6d99c9148.png">
 </p>
 </details>
 
 
-<details><summary> 5.1) ESTRUTURA DA APLICAÇÃO LEGADO</summary>
+<details><summary> 5.1) LEGACY APPLICATION'S ARCHITECTURE</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506764-7bcd1279-68ca-48af-bae7-7e007e9ab655.png">
 </p>
 </details>
 
 
-<details><summary> 5.2) DATAMART "ENGAJAMENTO" - ETL DE BD NÃO-RELACIONAL</summary>
+<details><summary> 5.2) DATAMART "ENGAJAMENTO" - ETL FROM NON-RELATIONAL DB</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506962-ed873842-0ac2-4f14-8d8f-0c6419741a2a.png">
 </p>
@@ -246,21 +241,21 @@ Controller.
 
 
 
-<details><summary> 5.3)  ESTRUTURA DO MONGODB CLOUD (COLLECTIONS) - CHAT+LOGS DOS ALUNOS.</summary>
+<details><summary> 5.3)  ARCHITECTURE MONGODB CLOUD (COLLECTIONS) - STUDENTS' CHAT+LOGS.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507538-d7f3ba49-b2a4-4093-a94b-8c23e24154ce.png">
 </p>
 </details>
 
 
-<details><summary> 5.3.1)  MONGODB "CONNECTIONS" COLLECTION PARA DATAMART "ENGAJAMENTO"</summary>
+<details><summary> 5.3.1)  MONGODB "CONNECTIONS" COLLECTION TO DATAMART "ENGAJAMENTO"</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507269-5f95f35a-220f-48ea-81c9-1e5d892b885e.png">
 </p>
 </details>
 
 
-<details><summary> 5.4.2) MONGODB "MESSAGES" COLLECTION PARA DATAMART "ENGAJAMENTO"</summary>
+<details><summary> 5.4.2) MONGODB "MESSAGES" COLLECTION TO DATAMART "ENGAJAMENTO"</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507273-69592d50-dd7c-4c1b-9665-0c21f1429383.png">
 </p>
@@ -280,19 +275,21 @@ Controller.
 </p>
 </details>
    
-# II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO 
+# II - TECHNOLOGICAL TOOLS.
 
-:wrench: **Banco de Dados 01** 
+:wrench: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-:wrench: **Banco de Dados 02**
+:wrench: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-:wrench: **Banco de Dados 03**
+:wrench: ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-:wrench:  linguagem: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+:wrench:  Backend: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), 
+
+:wrench:  Frontend: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), CCS, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), Styled Components, Axios.
 
 :wrench:  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-:wrench: SQL DEVELOPER.
+:wrench: COMPASS, MySQL WORKBENCH, SQL Server Management Studio.
 
 :wrench:  IDE: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white).
 
