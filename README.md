@@ -36,7 +36,7 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 ## 1) THE ARCHITECTURE OF EDUCALYTICS
 
 <p align="center">
-<img src="[https://user-images.githubusercontent.com/54047352/168504109-64045972-2b34-4a19-8098-23b1017fd5d2.png](https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS/blob/45d6b876afe01fb338dd42061d5e016d8c03d9db/imgs/Screenshot%20from%202022-06-19%2020-31-26.png)">
+<img src="https://user-images.githubusercontent.com/54047352/168504109-64045972-2b34-4a19-8098-23b1017fd5d2.png">
 </p>
 
 <details><summary> </summary>
