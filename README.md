@@ -42,21 +42,21 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 
 - [x]  2) FRONTEND;
 
-<details><summary> 2.1) DASHBOARD (MVP);</summary>
+<details><summary> 2.1) DASHBOARD.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504109-64045972-2b34-4a19-8098-23b1017fd5d2.png">
 </p>
 </details>
 
 
-<details><summary>2.2) LOGIN SCREEN (WITH CRIPTOGRAPHY "bcript");</summary>
+<details><summary>2.2) LOGIN SCREEN (WITH CRIPTOGRAPHY "bcript").</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504140-08aff39b-4f2d-49c0-a49d-1c454a37ee0c.png">
 </p>
 </details>
 
 
-<details><summary>2.3) REQUEST USING UNIQUE TOKEN;</summary>
+<details><summary>2.3) REQUEST USING UNIQUE TOKEN.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504168-bd12e7fb-992f-4036-8e62-f7797a2a6cff.gif">
 </p>
@@ -64,7 +64,7 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 
 
 
-<details><summary>2.4) CONTINUOUS INTEGRATION;</summary>
+<details><summary>2.4) CONTINUOUS INTEGRATION.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504269-088503b3-c056-46c7-9210-a8fe22022a3e.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504270-cd16dc20-67ce-4372-a1b2-edd8d15c74ba.png">
@@ -77,19 +77,27 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 </details>
 
 
-
-<details><summary> 2.5) STUDENT PARTICIPATION RESULTS BEING SHOWED VIA GRAPHICS ON DASHBOARD;</summary>
+2.5) STUDENT PARTICIPATION RESULTS BEING SHOWED VIA GRAPHICS ON DASHBOARD.
+<details><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504337-9977c291-ba71-43ae-acfe-7be1f69f815d.png">
-   
-<img src="https://user-images.githubusercontent.com/54047352/168504342-edd33729-b1dc-43b6-b194-3bd6c75c35be.png">
+</p>
+</details>
 
+<details><summary> (Clique aqui)</summary>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54047352/168504342-edd33729-b1dc-43b6-b194-3bd6c75c35be.png">
+</p>
+</details>
+   
+<details><summary> (Clique aqui)</summary>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504344-a157ed44-30b6-4775-9677-f645f4f2b04e.png">
 </p>
 </details>
 
 
-<details><summary> 2.6) RESULTS ON EACH CLASS;</summary>
+<details><summary> 2.6) RESULTS ON EACH CLASS.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504345-cb3a578b-208b-487b-80ca-7769bdc276da.png">
 </p>
