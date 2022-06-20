@@ -33,7 +33,7 @@ Consequentemente, *Educalytics* apresenta uma interface gráfica, na forma de *d
 
 For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-educalytics
 
-**1) THE ARCHITECTURE OF EDUCALYTICS**
+**1) A ARQUITETURA DO EDUCALYTICS**
 
 <p align="center">
 <img src="https://github.com/ODAGAMMXIX/PFOLIO5_EDUCALYTICS/blob/da653ed5e9fdf7ab98ecbb05d5a555adeea3042b/imgs/Screenshot%20from%202022-06-19%2020-31-26.png">
@@ -42,21 +42,21 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 
 - [x]  2) FRONTEND;
 
-<details><summary> 2.1) DASHBOARD.</summary>
+<details><summary> 2.1) *DASHBOARD*.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504109-64045972-2b34-4a19-8098-23b1017fd5d2.png">
 </p>
 </details>
 
 
-<details><summary>2.2) LOGIN SCREEN (WITH CRIPTOGRAPHY "bcript").</summary>
+<details><summary>2.2) LOGIN SCREEN (COM CRIPTOGRAFIA "bcript").</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504140-08aff39b-4f2d-49c0-a49d-1c454a37ee0c.png">
 </p>
 </details>
 
 
-<details><summary>2.3) REQUEST USING UNIQUE TOKEN.</summary>
+<details><summary>2.3) REQUISIÇÃO USANDO "UNIQUE TOKEN".</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504168-bd12e7fb-992f-4036-8e62-f7797a2a6cff.gif">
 </p>
@@ -64,7 +64,7 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 
 
 
-<details><summary>2.4) CONTINUOUS INTEGRATION.</summary>
+<details><summary>2.4) INTEGRAÇÃO CONTÍNUA.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504269-088503b3-c056-46c7-9210-a8fe22022a3e.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504270-cd16dc20-67ce-4372-a1b2-edd8d15c74ba.png">
@@ -77,7 +77,7 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 </details>
 
 
-2.5) STUDENT PARTICIPATION RESULTS BEING SHOWED VIA GRAPHICS ON DASHBOARD.
+2.5) ENGAJAMENTO DO ALUNO NO *DASHBOARD*.
 <details><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504337-9977c291-ba71-43ae-acfe-7be1f69f815d.png">
@@ -97,13 +97,13 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 </details>
 
 
-<details><summary> 2.6) RESULTS FOR STUDENTS, BY EACH CLASS.</summary>
+<details><summary> 2.6) NOTAS, POR ESTUDANTE.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504345-cb3a578b-208b-487b-80ca-7769bdc276da.png">
 </p>
 </details>
    
-- [x] 3) BACKEND - THE 8 LAYERS (MPConConRVSC).
+- [x] 3) BACKEND - AS 8 CAMADAS (MPConConRVSC).
 
 Model, 
 Payload, 
@@ -114,7 +114,7 @@ Validator,
 Services, 
 Controller.
 
-<details><summary> Layers (Software Engenieering).</summary>
+<details><summary> Camadas (Engenharia de Software).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504378-89855926-2958-452a-9e9d-e07bb78eef77.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504379-0c5e1a0b-0404-4217-b9c8-76860088de30.png">
@@ -122,21 +122,21 @@ Controller.
 </details>
 
 
-<details><summary> 3.1) BACKEND - VALIDATION (user and password).</summary>
+<details><summary> 3.1) BACKEND - VALIDAÇÃO (user and password).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504410-032731d7-b71d-4d74-be41-de70e200f4b2.gif">
 </p>
 </details>
 
 
-<details><summary> 3.2) BACKEND - DATABASE ACCESS.</summary>
+<details><summary> 3.2) BACKEND - ACESSO AO BD.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504448-0fefada2-66d8-49b0-8266-72aa7c3f3f32.gif">
 </p>
 </details>
 
 
-<details><summary> 3.3) BACKEND - ETL.</summary>
+<details><summary> 3.3) BD - ETL.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504748-ecc214a6-0acc-4520-96a6-fa220f601d74.gif">
 <img src="https://user-images.githubusercontent.com/54047352/168504752-be99f11e-4a7b-4ba3-a684-7291c38fc165.gif">
@@ -145,7 +145,7 @@ Controller.
 </p>
 </details>
 
-<details><summary> 3.3.1) BACKEND - ETL TIME DIMENSION.</summary>
+<details><summary> 3.3.1) BD - ETL DIMENSÃO "TEMPO", DE ARQUIVO CSV.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504855-8765cf2a-f846-469c-addc-ffcd8f4f3c46.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504857-1fd56213-e9da-4976-bf31-410c9eaafd70.png">
@@ -153,7 +153,7 @@ Controller.
 </details>
 
 
-<details><summary> 3.3.2) BACKEND - ETL COURSE DIMENSION ON THE LEGACY APPLICATION.</summary>
+<details><summary> 3.3.2) BD - ETL TABELA "AULA" (APLICAÇÃO LEGADO) PARA DIMENSÃO "DISCIPLINA".</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505076-e4ffb3b1-4ffb-49b6-a1a0-f7bd87fe37c1.png">
 <img src="https://user-images.githubusercontent.com/54047352/168505078-6ab613d8-0f63-4ba3-b72d-70405387e7d2.png">
@@ -164,7 +164,7 @@ Controller.
 </details>
 
 
-<details><summary> 3.3.3) BACKEND - ETL COURSE TO DATAMART ON THE PROGRAMME DIMENSION OF THE LEGACY APPLICATION.</summary>
+<details><summary> 3.3.3) BD - ETL "CURSO" PARA DATAMART NA DIMENSÃO "PROGRAMME" .</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505213-bcd2dc2f-23f3-4993-9573-3db337397f4a.png">
 <img src="https://user-images.githubusercontent.com/54047352/168505216-e3219e54-d9a3-4b18-9ae1-ee9fe7788390.png">
@@ -175,10 +175,10 @@ Controller.
 </p>
 </details>
 
-- [x] 4) EDUCALYTICS's DATABASE (RELATIONAL)
+- [x] 4) BD TRANSACIONAL EDUCALYTICS's (RELACIONAL)
 
 
-<details><summary> 4.1) LOGICAL MODEL</summary>
+<details><summary> 4.1) MODELO LÓGICO.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505254-7cd2f65c-09a6-4670-bde2-c8db5038dc7b.png">
 </p>
@@ -186,21 +186,21 @@ Controller.
 
 
 
-<details><summary> 4.2) ENTITY-RELATIONSHIP MODEL</summary>
+<details><summary> 4.2) MODELO ENTIDADE-RELACIONAMENTO.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505257-9a438ab4-b4b1-40ca-aa47-8b4e1be06b2e.png">
 </p>
 </details>
 
 
-<details><summary> 4.5) SKILLSHARE DATABASE MODEL</summary>
+<details><summary> 4.5) MODELAGEM DA APLICAÇÃO LEGADO.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505323-c5dfcd4c-419a-45ec-b42d-c7669732155f.png">
 </p>
 </details>
 
 
-<details><summary> 4.6) DATAMART PERFORMANCE DATABASE MODEL</summary>
+<details><summary> 4.6) MODELAGEM DATAMART "DESEMPENHO".</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505344-f64615c7-635d-4c7a-9af7-a3275cd22862.png">
 <img src="https://user-images.githubusercontent.com/54047352/168505347-43a5d48f-388c-402a-8e94-db69049898e7.png">
@@ -208,42 +208,42 @@ Controller.
 </details>
 
 
-<details><summary> 4.7) DATAMART PARTICIPATION ETL INTEGRATION</summary>
+<details><summary> 4.7) DATAMART "PARTICIPATION" (ENGAJAMENTO).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505504-0083765d-d887-4f07-93af-9b98b7eb5ee1.png">
 </p>
 </details>
 
 
-<details><summary> 4.8) DATAMART PARTICIPATION - EXTRACTING DATA FROM MONGO DB</summary>
+<details><summary> 4.8) DATAMART "PARTICIPATION" (ENGAJAMENTO) - EXTRAÇÃO DE DADOS DO MONGODB.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506159-7f8f8acc-5e9c-42a4-8da3-775602a89743.png">
 </p>
 </details>
 
 
-<details><summary> 4.9) DATAMART PARTICIPATION - EXTRACTING FROM DIMENSION TO FACT</summary>
+<details><summary> 4.9) DATAMART "PARTICIPATION" (ENGAJAMENTO) - EXTRAÇÃO DE DADOS PARA A **TABELA FATO**.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506384-65dc2173-3af2-41a7-83da-e21f1d6d534b.png">
 </p>
 </details>
 
 
-<details><summary> 5) DOUBLE ETL (MONGODB + LEGACY APPLICATION)</summary>
+<details><summary> 5) DUPLO ETL (MONGODB + APLICAÇÃO LEGADO).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506605-078d9b67-53fd-4e17-974f-bcd6d99c9148.png">
 </p>
 </details>
 
 
-<details><summary> 5.1) LEGACY APPLICATION'S ARCHITECTURE</summary>
+<details><summary> 5.1) ARQUITETURA DA APLICAÇÃO LEGADO.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506764-7bcd1279-68ca-48af-bae7-7e007e9ab655.png">
 </p>
 </details>
 
 
-<details><summary> 5.2) DATAMART "ENGAJAMENTO" - ETL FROM NON-RELATIONAL DB</summary>
+<details><summary> 5.2) DATAMART "ENGAJAMENTO" - ETL DO BD NÃO-RELACIONAL.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506962-ed873842-0ac2-4f14-8d8f-0c6419741a2a.png">
 </p>
@@ -251,41 +251,34 @@ Controller.
 
 
 
-<details><summary> 5.3)  ARCHITECTURE MONGODB CLOUD (COLLECTIONS) - STUDENTS' CHAT+LOGS.</summary>
+<details><summary> 5.3)  *COLLECTIONS* DO BD NÃO-RELACIONAL NO MONGODB CLOUD - CHAT+LOGS.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507538-d7f3ba49-b2a4-4093-a94b-8c23e24154ce.png">
 </p>
 </details>
 
 
-<details><summary> 5.3.1)  MONGODB "CONNECTIONS" COLLECTION TO DATAMART "ENGAJAMENTO"</summary>
+<details><summary> 5.3.1)  COLEÇÃO "CONNECTIONS" (AO DATAMART "ENGAJAMENTO").</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507269-5f95f35a-220f-48ea-81c9-1e5d892b885e.png">
 </p>
 </details>
 
 
-<details><summary> 5.4.2) MONGODB "MESSAGES" COLLECTION TO DATAMART "ENGAJAMENTO"</summary>
+<details><summary> 5.4.2) COLEÇÃO "MESSAGES" (AO DATAMART "ENGAJAMENTO").</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507273-69592d50-dd7c-4c1b-9665-0c21f1429383.png">
 </p>
 </details>
 
 
-<details><summary> 5.2) NON-RELATIONAL DATABASE ETL</summary>
-<p align="center">
-<img src="https://i.ibb.co/wMrLpBB/ETL-BDNR.png">
-</p>
-</details>
-
-
-<details><summary> 5.3) CASOS DE USO</summary>
+<details><summary> 6) CASOS DE USO</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507568-1a68ff7b-7d01-4a11-abc7-9235c7c826e5.png">
 </p>
 </details>
    
-# II - TECHNOLOGICAL TOOLS.
+# II -  TECNOLOGIAS ADOTADAS NA SOLUÇÃO.
 
 :wrench: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -321,14 +314,14 @@ Controller.
    
    ii. maiores e menores interações (chat, para sanar dúvidas e avaliação das aulas dadas);
    
-   iii. plataforma funcional com capacidade analítica, esecialmente:
+   iii. plataforma funcional com capacidade analítica, essecialmente:
 * Ativação: Quantos usuários ativos (aluno/colaboradores) na plataforma legado;
 * Engajamento: Conhecer o número de usuários, tipos, seu comportamento (matrícula, curso, disciplina, participação);
 * Desempenho: qual o aproveitamento do aluno (nota atingida) e do professor (andamento da turma);
 * Participação x taxas de conclusão x desempenho dos alunos/colaboradores;
 * Avaliação de reação: *Likes*, quanto ao conteúdo apresentado, experiência do aluno/colaborador durante o curso;
 * Registro do tempo de participação no curso;
-* Armzenamento de *logs* e histórico das conversas do chat;
+* Armazenamento de *logs* e histórico das conversas do chat;
 
 
 # IV - APRENDIZADOS EFETIVOS
@@ -339,7 +332,7 @@ Controller.
 
 :heavy_check_mark: Extração e transformação de dados do ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white), simulando os registros de desempenho acadêmico no BD da aplicação legado;
 
-:heavy_check_mark: Extração e transformação de dados do ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), ssimulando os registros de de CHAT e *logs* no BD da aplicação legado;
+:heavy_check_mark: Extração e transformação de dados do ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), simulando os registros de de CHAT e *logs* no BD da aplicação legado;
 
 :heavy_check_mark: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white), recebe os dados extraídos e transformados (*Loading*);
 
