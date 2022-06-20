@@ -97,7 +97,7 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 </details>
 
 
-<details><summary> 2.6) RESULTS ON EACH CLASS.</summary>
+<details><summary> 2.6) RESULTS FOR STUDENTS, BY EACH CLASS.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504345-cb3a578b-208b-487b-80ca-7769bdc276da.png">
 </p>
@@ -295,13 +295,16 @@ Controller.
 
 :wrench:  Backend: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), 
 
-:wrench:  Frontend: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), CCS, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), Styled Components, Axios.
+:wrench:  Frontend: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), CCS, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), Styled Components, Axios, ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white).
 
 :wrench:  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 :wrench: COMPASS, MySQL WORKBENCH, SQL Server Management Studio.
 
 :wrench:  IDE: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white).
+
+:wrench:  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+:wrench:  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 :wrench:  Metodologia *Scrum* e Ágil;
 
@@ -311,34 +314,43 @@ Controller.
 
 :axe: Atuei como *Product Owner* e *Scrum Master*
 
-:axe: Como P.O., compreendi imediatamente a necessidade e realizei comunicação veloz com a equipe para criar uma plataforma de visão gerencial, provendo inteligência do negócio e habilitado o pensamento analítico, com dashboards, histórico de chat e armazenamento desses dados históricos e escalabilidade.
+:axe: Como P.O., compreendi imediatamente a necessidade e realizei comunicação veloz com a equipe para criar uma plataforma de visão estratégica, provendo inteligência ao negócio e habilitado o raciocínio analítico, com dashboard contendo dados de desempenho dos alunos, histórico interações em chat, logs, com  escalabilidade.
 
-:axe: Através da plataforma, tornou-se possível encontrar os alunos com melhores e piores:
-   i. frequência nas aulas;
-   ii. interação (chat, para sanar dúvidas e avaliação das aulas dadas).
-   iii. plataforma funcional com capacidade analítica
-   * Ativação: Quantos usuários ativos (aluno/colaboradores) na plataforma legado;
+:axe: Norteei a aplicação para mostrar:
+   i. melhores e piores frequência nas aulas;
+   
+   ii. maiores e menores interações (chat, para sanar dúvidas e avaliação das aulas dadas);
+   
+   iii. plataforma funcional com capacidade analítica, esecialmente:
+* Ativação: Quantos usuários ativos (aluno/colaboradores) na plataforma legado;
 * Engajamento: Conhecer o número de usuários, tipos, seu comportamento (matrícula, curso, disciplina, participação);
-* Desempenho: qual o aproveitamento do aluno(nota atingida) e do professor (andamento da turma);
+* Desempenho: qual o aproveitamento do aluno (nota atingida) e do professor (andamento da turma);
 * Participação x taxas de conclusão x desempenho dos alunos/colaboradores;
-* Avaliação de reação: quanto ao conteúdo apresentado, experiência do aluno/colaborador durante o curso;
+* Avaliação de reação: *Likes*, quanto ao conteúdo apresentado, experiência do aluno/colaborador durante o curso;
 * Registro do tempo de participação no curso;
-* Guardar logs e histórico das conversas do chat;
+* Armzenamento de *logs* e histórico das conversas do chat;
 
 
 # IV - APRENDIZADOS EFETIVOS
 
-:heavy_check_mark:
+:heavy_check_mark: No FRONTEND, implementar criptografia e token.
 
-No FRONTEND - criptografia e token.
-No BACKEND - arquitetura em oito camadas, com múltiplos BACKENDs, tanto para acessar o DATAWAREHOUSE e apresetar dados no DASHBOARD ou acessar o MONGODB pra acessar os dados de CHAT e LOGs;
-No BANCO DE DADOS 01 (RELACIONAL) - Primeira versão com todos os dados necessários (será decomposto);
-No BANCO DE DADOS 02 (NÃO-RELACIONAL) - Receberá tabelas do BD01, segundo critérios de performance;
-CI (*Continuous Integration*): testes do BACKEND da aplicação;
-Distribuição dos BD - Se necessária a clusterização / fragmentação;
-No DATA WAREHOUSE - Um *Datamart* para cada a indicador métrico apresentado no *DASHBOARD*;
-*DASHBOARD*: Emulação do PDI-PENTAHO, para a apresentação dos dados aos usuários de alta gerência;
-Estudo profundo do PENTAHO, realizando ETL (Extraction, Transformation, Loading) de duas fontes: um banco de dados SQLServer da aplicação legado (contendo os dados de trabalho cotidiano dos alunos à platarforma de e-learning ) e do MongoDB (contendo dados de interação similiar á uma rede social, como chat e seus logs).
+:heavy_check_mark: No BACKEND, implementar arquitetura em oito camadas, com múltiplos BACKENDs (acesso aos 03 BD: transacional, Datawarehouse, aplicação legado).
+
+:heavy_check_mark: Extração e transformação de dados do ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white), simulando os registros de desempenho acadêmico no BD da aplicação legado;
+
+:heavy_check_mark: Extração e transformação de dados do ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), ssimulando os registros de de CHAT e *logs* no BD da aplicação legado;
+
+:heavy_check_mark: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white), recebe os dados extraídos e transformados (*Loading*);
+
+:heavy_check_mark: DATA WAREHOUSE - Um *Datamart* para cada a indicador métrico apresentado no *DASHBOARD*;
+
+:heavy_check_mark: *DASHBOARD*, emulando o PDI-PENTAHO, para a apresentação dos dados estratégicos;
+
+:heavy_check_mark: Estudo profundo do PENTAHO, realizando ETL (Extraction, Transformation, Loading) de múltiplas fontes (SQLServer,MongoDB, CSV);
+
+:heavy_check_mark: Implantar BD distribuídos, clusterização e fragmentação.
+
 
 
 ## Running it up
@@ -346,25 +358,6 @@ Deployment
 No seu dispositivo
 Vide Pasta "DEPLOYMENT-FIND-STEPS-HERE" acima)
 
-## Ferramentas Tecnologicas
-💻
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS CODE](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- Git Flow
-- OBS Studio / Kdenlive
 
 The End.
 :arrow_up: 
