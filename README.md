@@ -81,7 +81,9 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 <details><summary> 2.5) STUDENT PARTICIPATION RESULTS BEING SHOWED VIA GRAPHICS ON DASHBOARD;</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504337-9977c291-ba71-43ae-acfe-7be1f69f815d.png">
+   
 <img src="https://user-images.githubusercontent.com/54047352/168504342-edd33729-b1dc-43b6-b194-3bd6c75c35be.png">
+
 <img src="https://user-images.githubusercontent.com/54047352/168504344-a157ed44-30b6-4775-9677-f645f4f2b04e.png">
 </p>
 </details>
