@@ -23,7 +23,7 @@
 
 # I - RESUMO DO PROJETO 
 
-**Desafio:** Desenvolver ua plataforma com fulcro em Ciência de Dados, capaz de buscar e consumir fontes externas *i.e.* aplicações legado (*in casu* "Skilllshare"), suprindo os tomadores de decisão de uma dada instituição de ensino com informações gerenciais.
+**Desafio:** Desenvolver uma plataforma com fulcro em Ciência de Dados, capaz de buscar e consumir fontes externas *i.e.* aplicações legado (*in casu* "Skilllshare"), suprindo os tomadores de decisão de uma dada instituição de ensino com informações gerenciais.
 
 Os dados são produzidos pelo uso regular de uma plataforma externa de *e-learning*, por alunos e professores. Assim, o histórico de uso, incluindo as interações pelo *chat* e *logs* de sistema, tarefas, desempenho acadêmico dos alunos e satisfação dos usuários podem ser extraídos, compilados e apresentados à Diretoria e/ou acionistas.
 
