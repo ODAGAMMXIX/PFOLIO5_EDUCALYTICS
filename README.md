@@ -305,7 +305,7 @@ Controller.
 
 # III - CONTRIBUIÇÕES INDIVIDUAS/PESSOAIS
 
-:axe: Atuei como *Product Owner* e *Scrum Master*
+:axe: Atuei como *Software Architect*, *Data Analyst*, *Data Modeler*, *Product Owner* e *Scrum Master*
 
 :axe: Como P.O., compreendi imediatamente a necessidade e realizei comunicação veloz com a equipe para criar uma plataforma de visão estratégica, provendo inteligência ao negócio e habilitado o raciocínio analítico, com dashboard contendo dados de desempenho dos alunos, histórico interações em chat, logs, com  escalabilidade.
 
