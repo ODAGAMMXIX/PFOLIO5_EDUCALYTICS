@@ -42,29 +42,29 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 
 - [x]  2) FRONTEND;
 
-<details><summary> 2.1) *DASHBOARD*.</summary>
+<details open><summary> 2.1) *DASHBOARD*.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504109-64045972-2b34-4a19-8098-23b1017fd5d2.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary>2.2) LOGIN SCREEN (COM CRIPTOGRAFIA "bcript").</summary>
+<details open><summary>2.2) LOGIN SCREEN (COM CRIPTOGRAFIA "bcript").</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504140-08aff39b-4f2d-49c0-a49d-1c454a37ee0c.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary>2.3) REQUISIÇÃO USANDO "UNIQUE TOKEN".</summary>
+<details open><summary>2.3) REQUISIÇÃO USANDO "UNIQUE TOKEN".</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504168-bd12e7fb-992f-4036-8e62-f7797a2a6cff.gif">
 </p>
-</details>
+</details open>
 
 
 
-<details><summary>2.4) INTEGRAÇÃO CONTÍNUA.</summary>
+<details open><summary>2.4) INTEGRAÇÃO CONTÍNUA.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504269-088503b3-c056-46c7-9210-a8fe22022a3e.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504270-cd16dc20-67ce-4372-a1b2-edd8d15c74ba.png">
@@ -74,34 +74,34 @@ For DASHBOARD (FRONTEND), please acess: https://gitlab.com/rafaelEstevam/front-e
 <img src="https://user-images.githubusercontent.com/54047352/168504291-48b713ab-52a8-4a10-bacb-acd19b7a8400.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504292-d70c2f47-5312-4d7c-8303-3391df2cf738.png">
 </p>
-</details>
+</details open>
 
 
 2.5) ENGAJAMENTO DO ALUNO NO *DASHBOARD*.
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504337-9977c291-ba71-43ae-acfe-7be1f69f815d.png">
 </p>
-</details>
+</details open>
 
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504342-edd33729-b1dc-43b6-b194-3bd6c75c35be.png">
 </p>
-</details>
+</details open>
    
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504344-a157ed44-30b6-4775-9677-f645f4f2b04e.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 2.6) NOTAS, POR ESTUDANTE.</summary>
+<details open><summary> 2.6) NOTAS, POR ESTUDANTE.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504345-cb3a578b-208b-487b-80ca-7769bdc276da.png">
 </p>
-</details>
+</details open>
    
 - [x] 3) BACKEND - AS 8 CAMADAS (MPConConRVSC).
 
@@ -114,46 +114,46 @@ Validator,
 Services, 
 Controller.
 
-<details><summary> Camadas (Engenharia de Software).</summary>
+<details open><summary> Camadas (Engenharia de Software).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504378-89855926-2958-452a-9e9d-e07bb78eef77.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504379-0c5e1a0b-0404-4217-b9c8-76860088de30.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 3.1) BACKEND - VALIDAÇÃO (user and password).</summary>
+<details open><summary> 3.1) BACKEND - VALIDAÇÃO (user and password).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504410-032731d7-b71d-4d74-be41-de70e200f4b2.gif">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 3.2) BACKEND - ACESSO AO BD.</summary>
+<details open><summary> 3.2) BACKEND - ACESSO AO BD.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504448-0fefada2-66d8-49b0-8266-72aa7c3f3f32.gif">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 3.3) BD - ETL.</summary>
+<details open><summary> 3.3) BD - ETL.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504748-ecc214a6-0acc-4520-96a6-fa220f601d74.gif">
 <img src="https://user-images.githubusercontent.com/54047352/168504752-be99f11e-4a7b-4ba3-a684-7291c38fc165.gif">
 <img src="https://user-images.githubusercontent.com/54047352/168504755-9fc67cf3-4cda-4359-a61e-c3cffb08a72f.gif">
 <img src="https://user-images.githubusercontent.com/54047352/168504764-5af45d97-ee54-4545-87da-5442af80e93c.gif">
 </p>
-</details>
+</details open>
 
-<details><summary> 3.3.1) BD - ETL DIMENSÃO "TEMPO", DE ARQUIVO CSV.</summary>
+<details open><summary> 3.3.1) BD - ETL DIMENSÃO "TEMPO", DE ARQUIVO CSV.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168504855-8765cf2a-f846-469c-addc-ffcd8f4f3c46.png">
 <img src="https://user-images.githubusercontent.com/54047352/168504857-1fd56213-e9da-4976-bf31-410c9eaafd70.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 3.3.2) BD - ETL TABELA "AULA" (APLICAÇÃO LEGADO) PARA DIMENSÃO "DISCIPLINA".</summary>
+<details open><summary> 3.3.2) BD - ETL TABELA "AULA" (APLICAÇÃO LEGADO) PARA DIMENSÃO "DISCIPLINA".</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505076-e4ffb3b1-4ffb-49b6-a1a0-f7bd87fe37c1.png">
 <img src="https://user-images.githubusercontent.com/54047352/168505078-6ab613d8-0f63-4ba3-b72d-70405387e7d2.png">
@@ -161,10 +161,10 @@ Controller.
 <img src="https://user-images.githubusercontent.com/54047352/168505120-bd3daed2-a668-4884-a103-a59f7f63066f.png">
 <img src="https://user-images.githubusercontent.com/54047352/168505129-bffd498c-fa94-447b-8ddb-9a2660b9b014.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 3.3.3) BD - ETL "CURSO" PARA DATAMART NA DIMENSÃO "PROGRAMME" .</summary>
+<details open><summary> 3.3.3) BD - ETL "CURSO" PARA DATAMART NA DIMENSÃO "PROGRAMME" .</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505213-bcd2dc2f-23f3-4993-9573-3db337397f4a.png">
 <img src="https://user-images.githubusercontent.com/54047352/168505216-e3219e54-d9a3-4b18-9ae1-ee9fe7788390.png">
@@ -173,110 +173,110 @@ Controller.
 <img src="https://user-images.githubusercontent.com/54047352/168505221-8a8881e0-f2f2-43df-8068-76a8ee0b5387.png">
 <img src="https://user-images.githubusercontent.com/54047352/168505222-6080ccf5-9882-4c55-b3b7-18b9337c838e.png">
 </p>
-</details>
+</details open>
 
 - [x] 4) BD TRANSACIONAL EDUCALYTICS's (RELACIONAL)
 
 
-<details><summary> 4.1) MODELO LÓGICO.</summary>
+<details open><summary> 4.1) MODELO LÓGICO.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505254-7cd2f65c-09a6-4670-bde2-c8db5038dc7b.png">
 </p>
-</details>
+</details open>
 
 
 
-<details><summary> 4.2) MODELO ENTIDADE-RELACIONAMENTO.</summary>
+<details open><summary> 4.2) MODELO ENTIDADE-RELACIONAMENTO.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505257-9a438ab4-b4b1-40ca-aa47-8b4e1be06b2e.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 4.5) MODELAGEM DA APLICAÇÃO LEGADO.</summary>
+<details open><summary> 4.5) MODELAGEM DA APLICAÇÃO LEGADO.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505323-c5dfcd4c-419a-45ec-b42d-c7669732155f.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 4.6) MODELAGEM DATAMART "DESEMPENHO".</summary>
+<details open><summary> 4.6) MODELAGEM DATAMART "DESEMPENHO".</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505344-f64615c7-635d-4c7a-9af7-a3275cd22862.png">
 <img src="https://user-images.githubusercontent.com/54047352/168505347-43a5d48f-388c-402a-8e94-db69049898e7.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 4.7) DATAMART "PARTICIPATION" (ENGAJAMENTO).</summary>
+<details open><summary> 4.7) DATAMART "PARTICIPATION" (ENGAJAMENTO).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168505504-0083765d-d887-4f07-93af-9b98b7eb5ee1.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 4.8) DATAMART "PARTICIPATION" (ENGAJAMENTO) - EXTRAÇÃO DE DADOS DO MONGODB.</summary>
+<details open><summary> 4.8) DATAMART "PARTICIPATION" (ENGAJAMENTO) - EXTRAÇÃO DE DADOS DO MONGODB.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506159-7f8f8acc-5e9c-42a4-8da3-775602a89743.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 4.9) DATAMART "PARTICIPATION" (ENGAJAMENTO) - EXTRAÇÃO DE DADOS PARA A **TABELA FATO**.</summary>
+<details open><summary> 4.9) DATAMART "PARTICIPATION" (ENGAJAMENTO) - EXTRAÇÃO DE DADOS PARA A **TABELA FATO**.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506384-65dc2173-3af2-41a7-83da-e21f1d6d534b.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 5) DUPLO ETL (MONGODB + APLICAÇÃO LEGADO).</summary>
+<details open><summary> 5) DUPLO ETL (MONGODB + APLICAÇÃO LEGADO).</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506605-078d9b67-53fd-4e17-974f-bcd6d99c9148.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 5.1) ARQUITETURA DA APLICAÇÃO LEGADO.</summary>
+<details open><summary> 5.1) ARQUITETURA DA APLICAÇÃO LEGADO.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506764-7bcd1279-68ca-48af-bae7-7e007e9ab655.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 5.2) DATAMART "ENGAJAMENTO" - ETL DO BD NÃO-RELACIONAL.</summary>
+<details open><summary> 5.2) DATAMART "ENGAJAMENTO" - ETL DO BD NÃO-RELACIONAL.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168506962-ed873842-0ac2-4f14-8d8f-0c6419741a2a.png">
 </p>
-</details>
+</details open>
 
 
 
-<details><summary> 5.3)  *COLLECTIONS* DO BD NÃO-RELACIONAL NO MONGODB CLOUD - CHAT+LOGS.</summary>
+<details open><summary> 5.3)  *COLLECTIONS* DO BD NÃO-RELACIONAL NO MONGODB CLOUD - CHAT+LOGS.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507538-d7f3ba49-b2a4-4093-a94b-8c23e24154ce.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 5.3.1)  COLEÇÃO "CONNECTIONS" (AO DATAMART "ENGAJAMENTO").</summary>
+<details open><summary> 5.3.1)  COLEÇÃO "CONNECTIONS" (AO DATAMART "ENGAJAMENTO").</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507269-5f95f35a-220f-48ea-81c9-1e5d892b885e.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 5.4.2) COLEÇÃO "MESSAGES" (AO DATAMART "ENGAJAMENTO").</summary>
+<details open><summary> 5.4.2) COLEÇÃO "MESSAGES" (AO DATAMART "ENGAJAMENTO").</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507273-69592d50-dd7c-4c1b-9665-0c21f1429383.png">
 </p>
-</details>
+</details open>
 
 
-<details><summary> 6) CASOS DE USO</summary>
+<details open><summary> 6) CASOS DE USO</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/168507568-1a68ff7b-7d01-4a11-abc7-9235c7c826e5.png">
 </p>
-</details>
+</details open>
    
 # II -  TECNOLOGIAS ADOTADAS NA SOLUÇÃO.
 
